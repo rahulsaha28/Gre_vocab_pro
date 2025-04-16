@@ -1,0 +1,4087 @@
+[
+  { "Word": "Eliminate", "Meaning": "completely remove" },
+  { "Word": "Acknowledge", "Meaning": "recognize" },
+  {
+    "Word": "Condescend",
+    "Meaning": "To believe or talk that you are more intelligent and better than other people",
+    "Synonym": "patronize",
+    "rate": 4
+  },
+  { "Word": "Dismiss", "Meaning": "reject", "Synonym": "expulsion" },
+  {
+    "Word": "Adoration",
+    "similarWord": "290;344;405;453;562;813",
+    "Meaning": "honour",
+    "Synonym": "accolade; deferential; kudos",
+    "rate": 3,
+    "Sentence": "She received numerous accolades for her groundbreaking research in medicine"
+  },
+  {
+    "Word": "Indifference",
+    "Meaning": "lack of interest; mediocre in quality",
+    "Synonym": "apathy; nonchalance;blithe",
+    "rate": 2,
+    "Sentence": "She responded to the criticism with nonchalance, as if it didn’t bother her at all"
+  },
+  {
+    "Word": "Precursor",
+    "similarWord": "18;60;151;234;237;270;332;350;382;495;604;719;741;779;835",
+    "Meaning": "something that comes before or paves the way for something else; earlier sign of something to come",
+    "Synonym": "predecessor; pioneer; forerunner; harbinger(-)",
+    "rate": 3,
+    "Sentence": "The innovation of the telegraph was a precursor to modern communication technologies;Rising global temperatures are a harbinger of irreversible climate damage"
+  },
+  {
+    "Word": "Prolong",
+    "Meaning": "make something last longer",
+    "Synonym": "protract",
+    "Sentence": "Bureaucratic red tape can protract the approval process for vital infrastructure projects"
+  },
+  {
+    "Word": "Exhaust",
+    "Meaning": "Make someone tired; completely used up (  ক্ষয়প্রাপ্ত  )",
+    "Synonym": "drained;depleted;wearisome",
+    "rate": 4,
+    "Sentence": "The food supply were exhausted after weeks of siege"
+  },
+  { "Word": "Counterproductive", "Meaning": "opposite of productive" },
+  { "Word": "Ascertain", "Meaning": "discover" },
+  {
+    "Word": "exacerbate",
+    "similarWord": 735,
+    "Meaning": "make a problem worse",
+    "rate": 3,
+    "VideoID": "O9u0cSGXIhY"
+  },
+  { "Word": "Incredible", "Meaning": "great" },
+  { "Word": "Marvelous", "Meaning": "excellent" },
+  { "Word": "Draftsmanship", "Meaning": "draw something well" },
+  { "Word": "Virtuosity", "Meaning": "Great skill ( artist or sport player )" },
+  { "Word": "Foreshadow", "Meaning": "predict or indicate" },
+  {
+    "Word": "Alleviate",
+    "Meaning": "Reduce (suffering or pain)",
+    "Synonym": "mitigate"
+  },
+  {
+    "Word": "Ordeal",
+    "Meaning": "difficult",
+    "Synonym": "unenviable; arduous",
+    "Sentence": "Government face the unenviable task of balancing economical growth with environmental sustainability ; Transitioning to renewable energy sources, while arduous, is essential for sustainable development"
+  },
+  {
+    "Word": "Misconduct",
+    "Meaning": "unacceptable behaviour",
+    "Synonym": "malpractice"
+  },
+  { "Word": "Emerge" },
+  {
+    "Word": "impair",
+    "Meaning": "damage an ability or worse an ability",
+    "Synonym": "mar",
+    "Sentence": "While technology advancements have brought numerous benefits to society, they have also marred traditional ways of life, leading to the loss of cultural heritage in many communities"
+  },
+  {
+    "Word": "Impugn",
+    "Meaning": "call into question; attack; question",
+    "Synonym": "dispute→debate",
+    "VideoID": "frjdDZqoHo4"
+  },
+  { "Word": "Sully", "Meaning": "damage" },
+  { "Word": "Unscathed", "Meaning": "uninjured" },
+  {
+    "Word": "Provincial",
+    "Meaning": "part of a country away from the capital; lack of exposure to broader experience",
+    "Synonym": "insular; narrow-minded",
+    "Sentence": "her provincial outlook made it hard for her to understand global issues"
+  },
+  {
+    "Word": "Dogma",
+    "Meaning": "blind faith",
+    "Synonym": "fanatic",
+    "rate": 3
+  },
+  { "Word": "Discredit", "Meaning": "blame" },
+  { "Word": "Revert", "Meaning": "think about again;return" },
+  { "Word": "Assimilate", "Meaning": "adapt (different community)" },
+  {
+    "Word": "Disregard",
+    "Meaning": "ignore or pay no attention",
+    "Synonym": "unheeded",
+    "Sentence": "Many industries disregard environmental regulations in pursuit of high profit, leading to long term damage to ecosystems; Despite repeated warnings about climate change, many governments have left these concerns unheeded"
+  },
+  { "Word": "Incline", "Meaning": "influence", "Synonym": "disposed" },
+  { "Word": "Advocate", "Meaning": "support", "Synonym": "espouse" },
+  {
+    "Word": "Petulant",
+    "Meaning": "unreasonably angry and upset",
+    "VideoID": "GBp6qvWUTKM"
+  },
+  {
+    "Word": "Acclaim",
+    "Meaning": "honor; praise publicaly",
+    "Synonym": "plaudit",
+    "VideoID": "1d2PLN6Nx2c"
+  },
+  {
+    "Word": "Insight",
+    "Meaning": "understand complex situation",
+    "Synonym": "illuminate",
+    "rate": 2
+  },
+  { "Word": "Provision", "Meaning": "plan" },
+  { "Word": "Variety", "Meaning": "different" },
+  { "Word": "Homogeneous", "Meaning": "similar" },
+  { "Word": "Implicit", "Meaning": "not direct" },
+  {
+    "Word": "Refrain",
+    "Meaning": "avoid",
+    "Synonym": "abstain; shunned",
+    "Sentence": "After the scandal, he was shunned by his colleagues and friends"
+  },
+  {
+    "Word": "Reluctant",
+    "Meaning": "unwilling",
+    "rate": 3,
+    "Sentence": "I reluctantly agree with you that Real Madrid are better than West Ham"
+  },
+  { "Word": "inquisitive", "Meaning": "curious" },
+  {
+    "Word": "presumptuous",
+    "Meaning": "arrogant",
+    "Synonym": "overween;supercilious",
+    "VideoID": "kAoa_XC69BM",
+    "Sentence": "kAoa_XC69BM"
+  },
+  {
+    "Word": "presumption",
+    "Meaning": "assumption",
+    "Sentence": "The presumption that he would attend the meeting turn out to be incorrect"
+  },
+  {
+    "Word": "venture",
+    "Meaning": "project (which is difficult, new because it involve risk of failure)",
+    "VideoID": "_oNy0jb6wVs"
+  },
+  {
+    "Word": "censure",
+    "Meaning": "strongly disapproval; critisize",
+    "Synonym": "condemn; deplore; deprecate; denounce",
+    "rate": 3,
+    "Sentence": "Environmentalists deplore the continued deforestation of the Amazon, warning that it accelerates climate change and biodiversity loss"
+  },
+  {
+    "Word": "obscurity",
+    "similarWord": "97;186;203;213;242;642",
+    "Meaning": "unimportance or enigma",
+    "Synonym": "trivial",
+    "rate": 2
+  },
+  { "Word": "Relegate", "Meaning": "to move to a position of less authority" },
+  {
+    "Word": "Relative obscurity",
+    "Meaning": "something is known by only few people"
+  },
+  {
+    "Word": "Mercy",
+    "Meaning": "forgiveness",
+    "Synonym": "clemency; lenient",
+    "rate": 3,
+    "Sentence": "The prisoner appealed to the governor for clemency, hoping for a reduce sentence"
+  },
+  {
+    "Word": "Intimidate",
+    "Meaning": "frighten someone(in order to make them do what some want); pressure",
+    "Synonym": "daunt",
+    "rate": 2,
+    "Sentence": "The project doesn’t seem to daunt [=intimidate] them"
+  },
+  { "Word": "Coerce", "Meaning": "to force someone to do something" },
+  {
+    "Word": "Susceptible",
+    "Meaning": "vulnerability; weakness",
+    "Sentence": "He was very vulnerable after his divorce; Your computer is vulnerable to[=in peril] virus"
+  },
+  { "Word": "Irreparable", "Meaning": "can not be repair" },
+  { "Word": "incubate", "Meaning": "Given support to developing" },
+  { "Word": "Lackluster", "Meaning": "boring; dull" },
+  {
+    "Word": "Industrious",
+    "Meaning": "hard working",
+    "Synonym": "diligent; assiduous",
+    "rate": 3,
+    "Sentence": "She is admired for her industry;His assiduous attention to detail made him an invaluable member of the team"
+  },
+  {
+    "Word": "Mettlesome",
+    "Meaning": "brave; full of spirit and courage",
+    "Synonym": "intrepid;fortitude",
+    "VideoID": "RfWQ9kh9rRo",
+    "Sentence": "RfWQ9kh9rRo"
+  },
+  { "Word": "Feckless", "Meaning": "irresponsible", "VideoID": "ZbuU_ZCWuoM" },
+  {
+    "Word": "Penchant",
+    "Meaning": "liking; tendency to do",
+    "VideoID": "RkGxh5KN8bI"
+  },
+  {
+    "Word": "Denigrate",
+    "Meaning": "criticize",
+    "Synonym": "disparage; castigate",
+    "VideoID": "UTI7tvoBrY0",
+    "Sentence": "UTI7tvoBrY0"
+  },
+  { "Word": "Detractor", "Meaning": "who criticize or disparage" },
+  {
+    "Word": "Tout",
+    "Meaning": "promote or praise highly",
+    "Synonym": "eulogize",
+    "rate": 2,
+    "VideoID": "IbvmMmDRMRs",
+    "Sentence": "Milk has been touted as the health drink over the world"
+  },
+  { "Word": "Foolhardy", "Meaning": "risky" },
+  { "Word": "Insipid", "Meaning": "tasteless" },
+  { "Word": "cumbersome", "Meaning": "difficult to carry(heavy)" },
+  { "Word": "Gullible", "Meaning": "innocent", "Synonym": "naive" },
+  {
+    "Word": "Perturb",
+    "similarWord": 71,
+    "Meaning": "worried",
+    "Synonym": "foment",
+    "VideoID": "6rkZ7xmQhCc"
+  },
+  {
+    "Word": "Imperturb",
+    "Meaning": "clam and controlled",
+    "Synonym": "halcyon; quell",
+    "rate": 3
+  },
+  {
+    "Word": "Culpable",
+    "Meaning": "someone responsible for something bad happen"
+  },
+  {
+    "Word": "Intrigue",
+    "Meaning": "secret plan to harm or arouse the curiosity/interest"
+  },
+  {
+    "Word": "reproof",
+    "Meaning": "disapproval or criticism",
+    "Synonym": "deprecate",
+    "Sentence": "Government should deprecate single use plastics through taxation, as bans along are insufficient"
+  },
+  {
+    "Word": "Wisdom",
+    "similarWord": 562,
+    "Meaning": "knowledge",
+    "Synonym": "erudite"
+  },
+  {
+    "Word": "Remorse",
+    "similarWord": "478;545;641;783",
+    "Meaning": "strong felling of sadness; felling regret",
+    "Synonym": "downcast",
+    "Sentence": "After hearing the bad news, she looked downcast and didn’t speak for hours"
+  },
+  { "Word": "Probity", "Meaning": "worth; honesty" },
+  { "Word": "Guile", "Meaning": "cunning(deceiving people in a clever way)" },
+  {
+    "Word": "Combat",
+    "Meaning": "fight",
+    "Synonym": "melee; brawl; militant",
+    "rate": 2,
+    "Sentence": "The office meeting turned into a melee when employees began arguing"
+  },
+  { "Word": "Loquacity", "Meaning": "talkativeness" },
+  { "Word": "Poised", "Meaning": "ready to do", "VideoID": "AzBCh5Vt69E" },
+  {
+    "Word": "Inhibit",
+    "Meaning": "to slow down or hinder an action",
+    "Synonym": "repressed [=  নিপীড়ন করা  ]",
+    "Sentence": "In some cultures, individuals are taught to keep their emotions repressed, as openly expressing feelings is often view as a sign of weakness or lack of self-control;Poor infrastructure can inhibit economic growth in developing countries   "
+  },
+  { "Word": "Retard", "Meaning": "slow down" },
+  {
+    "Word": "Proliferate",
+    "Meaning": "increase number quickly",
+    "Synonym": "accretion"
+  },
+  { "Word": "Ardor", "Meaning": "enthusiasm;passion", "Synonym": "fervour" },
+  { "Word": "Decline", "Meaning": "less in quantity; refuse", "rate": 2 },
+  { "Word": "Immutable", "Meaning": "fixed; unchanging" },
+  {
+    "Word": "Incongruous",
+    "Meaning": "not fit well with its context; lacking harmony",
+    "Synonym": "absurd",
+    "rate": 2,
+    "VideoID": "m2SmAw4dVKI",
+    "Sentence": "The professor’s joke seemed incongruous with the seriousness of his lecture"
+  },
+  { "Word": "Momentous", "Meaning": "important" },
+  { "Word": "Coalesce", "Meaning": "mixture", "VideoID": "RIohpmrQA44" },
+  { "Word": "Enigmatic", "Meaning": "puzzling; mysterious" },
+  {
+    "Word": "Dissipate",
+    "similarWord": 275,
+    "Meaning": "waste",
+    "Synonym": "squander",
+    "VideoID": "ftJR0xTqkj0"
+  },
+  {
+    "Word": "Univocal",
+    "Meaning": "unambiguous(something is understood) or unmistakable"
+  },
+  { "Word": "Erroneous", "Meaning": "incorrectly" },
+  { "Word": "Anachronistic", "Meaning": "Old-fashion" },
+  {
+    "Word": "Intractable",
+    "similarWord": "203;305;346;698;777",
+    "Meaning": "difficult to control or influence",
+    "Synonym": " obstinate"
+  },
+  {
+    "Word": "Obtuse",
+    "Meaning": "dull;stupid",
+    "Synonym": "blunt",
+    "rate": 4,
+    "VideoID": "7pW_zYU-SQU"
+  },
+  {
+    "Word": "Congruent",
+    "Meaning": "compatible; superimpose",
+    "VideoID": "_IHupyg8GGM"
+  },
+  {
+    "Word": "Vapid",
+    "Meaning": "boring",
+    "Synonym": "insipid; prosaic",
+    "Sentence": "His prosaic writing style failed to inspire readers"
+  },
+  { "Word": "Epitomize", "Meaning": "perfect example" },
+  { "Word": "Caricature", "Meaning": "parody; cartoon" },
+  { "Word": "Aberration", "Meaning": "anomalous", "rate": 3 },
+  { "Word": "Salvation", "Meaning": "relief" },
+  { "Word": "Intervene", "Meaning": "interfere" },
+  { "Word": "Revise", "Meaning": "to change something", "Synonym": "plastic" },
+  {
+    "Word": "Kindle",
+    "Meaning": "kindle a particular emotion in someone it make them start to feel; wake up",
+    "Synonym": "arouse",
+    "VideoID": "PBjCwJYhHo8"
+  },
+  {
+    "Word": "Extol",
+    "Meaning": "praise",
+    "Synonym": "extol",
+    "VideoID": "T8U08qervdg",
+    "Sentence": "The health benefits of exercise are widely extolled"
+  },
+  { "Word": "not to...as to" },
+  {
+    "Word": "Inure",
+    "Meaning": "use to(unpleasant)",
+    "VideoID": "9vbaZQfTRTs"
+  },
+  { "Word": "Personnel", "Meaning": "organization people" },
+  {
+    "Word": "Caprice",
+    "Meaning": "unexpected action or decision; fickleness",
+    "Synonym": "whim",
+    "rate": 3,
+    "Sentence": "The weather is capricious this time of year, width sunny days followed by sudden rain showers"
+  },
+  {
+    "Word": "Resentment",
+    "Meaning": "bitterness[   তীব্র বিরক্তি]; ill filling; jealous",
+    "Synonym": "envious",
+    "rate": 2,
+    "Sentence": "He feels resentful toward his boss;she was envious for her friend’s success"
+  },
+  {
+    "Word": "Apprehension",
+    "similarWord": "681;749;893",
+    "Meaning": "worry; feeling of fear; something bad or unpleasant will happen",
+    "rate": 2
+  },
+  { "Word": "Seafloor", "Meaning": "ground at the bottom of the ocean" },
+  { "Word": "Devastate", "Meaning": "destroy" },
+  {
+    "Word": "Offset",
+    "Meaning": "the effect of first thing is reduced by the second thing; balance"
+  },
+  {
+    "Word": "Diminish",
+    "Meaning": "reduce(size, intensity,importance)",
+    "Synonym": "disparage; decline;belittle",
+    "rate": 5
+  },
+  {
+    "Word": "Encumber",
+    "Meaning": "Prevent you from moving freely or doing what you want; hamper;obstruct"
+  },
+  {
+    "Word": "Superfluous",
+    "Meaning": "unnecessary",
+    "Synonym": "surplus;extraneous",
+    "rate": 5,
+    "Sentence": "Teachers should avoid including extraneous information in their lessons as it can confuse students and detract from the core material"
+  },
+  { "Word": "superficial", "Meaning": "exist on surface" },
+  { "Word": "Decimate", "Meaning": "destroy" },
+  {
+    "Word": "Resurrect",
+    "similarWord": "131;740",
+    "Meaning": "renew; restore",
+    "rate": 4,
+    "Sentence": "His reputation has been resurrected[=restored]; An old government program that is being resurrected"
+  },
+  {
+    "Word": "Pristine",
+    "Meaning": "original condition; virgin",
+    "Synonym": "immaculate",
+    "rate": 2,
+    "Sentence": "The car is 10 yarns old but it is still in pristine condition"
+  },
+  {
+    "Word": "Pursuit",
+    "Meaning": "personal interest; hobby",
+    "Sentence": "Photography has always been his favorite pursuit, and he spends hours capturing the beauty of nature."
+  },
+  {
+    "Word": "Disinterested pursuit of truth",
+    "Meaning": "actively seeking the truth without being influenced by person biases, opinions, or motivations"
+  },
+  {
+    "Word": "Suppress",
+    "Meaning": "prevent an activity from continuing",
+    "VideoID": "u13AvBzb2P4"
+  },
+  { "Word": "Exterminate", "Meaning": "destroy" },
+  { "Word": "Fabricate", "Meaning": "deceive" },
+  { "Word": "Resuscitate", "Meaning": "bring to life" },
+  {
+    "Word": "Compromise",
+    "Meaning": "To compromise themselves →  damage their reputation for honesty"
+  },
+  { "Word": "Revive", "Meaning": "restore;renew", "Synonym": "resurgence" },
+  {
+    "Word": "Intensify",
+    "Meaning": "increase",
+    "Synonym": "inflate",
+    "rate": 2,
+    "VideoID": "GoS-K1FN-NM"
+  },
+  {
+    "Word": "Flag(v)",
+    "Meaning": "weaken(energy,enthusiasm)",
+    "Synonym": "sap",
+    "Sentence": "She is trying to revive his flagging career;Her energy shows no sign of flagging after all these years; The constant criticism began to sap her confidence"
+  },
+  {
+    "Word": "Flagrant",
+    "Meaning": "wrong or immoral action",
+    "Sentence": "The company was fined for its flagrant violation of environmental laws; The flagrant dumping of industrial waste into rivers is a serious threat to aquatic ecosystems"
+  },
+  { "Word": "for", "Meaning": "he stayed home for it was raining" },
+  { "Word": "Espouse", "Meaning": "support" },
+  { "Word": "Decorum", "Meaning": "decency" },
+  {
+    "Word": "Superseded",
+    "Meaning": "replaced(because old fahion)",
+    "rate": 3,
+    "VideoID": "728cNfTC0Fk"
+  },
+  {
+    "Word": "Cult",
+    "Meaning": "popular (in a particular group)",
+    "VideoID": "chqei-IIpfc"
+  },
+  { "Word": "Conniving", "Meaning": "plotting" },
+  {
+    "Word": "riveting(Adj)",
+    "Meaning": "extremely interesting",
+    "Synonym": "captivate",
+    "rate": 3,
+    "VideoID": "DCi5EKiHWCo",
+    "Sentence": "I found Ben’s last video absolutely riveting"
+  },
+  { "Word": "Tease", "Meaning": "mock" },
+  { "Word": "Hostility", "Meaning": "animosity", "Synonym": "antagonism" },
+  {
+    "Word": "Avert",
+    "Meaning": "prevent",
+    "rate": 3,
+    "VideoID": "wMcNClt08dM"
+  },
+  { "Word": "Bitter", "Meaning": "hard" },
+  { "Word": "Mask", "Meaning": "conceal(prevent people from noticing)" },
+  {
+    "Word": "Contravene",
+    "Meaning": "violate;break",
+    "rate": 3,
+    "VideoID": "MJcwrUUYf_g"
+  },
+  { "Word": "Comply with", "Meaning": "obey", "rate": 3 },
+  { "Word": "Aptitude", "Meaning": "talent" },
+  {
+    "Word": "Grudging",
+    "Meaning": "done very unwilling",
+    "Synonym": "reluctant",
+    "rate": 2,
+    "VideoID": "s-G6ilrkcQ4"
+  },
+  {
+    "Word": "Imminent",
+    "Meaning": "coming(almost certain to happen very soon)",
+    "Synonym": "foresight;prescient",
+    "rate": 3,
+    "Sentence": "Many scientists argue that without immediate action to reduce carbon emission, the threat of imminent environmental disasters, such as rising sea levels and extreme weather events, will become unavoidable; The author’s prescient vision of a world dominated by artificial intelligence, written decades ago, has become a reality in many aspects of modern life   "
+  },
+  {
+    "Word": "Transcendent",
+    "similarWord": 339,
+    "Meaning": "unique; superior;  অবর্ণনীয়",
+    "Synonym": "unparalleled; ineffable",
+    "VideoID": "KbwZw0R9NTY",
+    "Sentence": "The ineffable majesty of the Himalayas left her speechless"
+  },
+  {
+    "Word": "Cynic",
+    "Meaning": "pessimist(who distrusts people);selfish",
+    "rate": 2,
+    "Sentence": "Some people regard the governor’s visit to the hospital as a cynical attempt to win votes"
+  },
+  { "Word": "Errant", "Meaning": "unacceptable behaviour" },
+  {
+    "Word": "Deprave",
+    "Meaning": "pervert(morally evil)",
+    "Synonym": "louche",
+    "VideoID": "aIq466mEnE4"
+  },
+  {
+    "Word": "Malevolent",
+    "similarWord": 351,
+    "Meaning": "hostile",
+    "Synonym": "vicious",
+    "VideoID": "dfdX4mDGdXI"
+  },
+  {
+    "Word": "Alluring",
+    "similarWord": "158;163;248;163",
+    "Meaning": "attractive",
+    "Synonym": "seductive",
+    "VideoID": "Nl-i2Rz1678"
+  },
+  { "Word": "Allusive", "Meaning": "making indirect reference to other idea" },
+  {
+    "Word": "Subtle",
+    "Meaning": "not obvious or noticeable; hard to perceive",
+    "rate": 4,
+    "VideoID": "905OdG56k94"
+  },
+  { "Word": "Fatter", "Meaning": "prevent from moving;restrict" },
+  { "Word": "Literal language", "Meaning": "exact" },
+  { "Word": "Figurative language", "Meaning": "more complex and metaphoric" },
+  {
+    "Word": "Allusion",
+    "Meaning": "indirect reference of something",
+    "VideoID": "6QjHtXwnLkI"
+  },
+  { "Word": "Tussle", "Meaning": "fight; battle" },
+  { "Word": "Regard", "Meaning": "someone with a feeling" },
+  {
+    "Word": "Dwindle",
+    "Meaning": "smaller, weaker or less in number gradually(change over time rather than current state)",
+    "VideoID": "WTzMfz7FVCI",
+    "Sentence": "Traditional practices and languages are dwindling as young generation adopt modern lifestyles"
+  },
+  {
+    "Word": "Scant",
+    "Meaning": "very little or limited",
+    "Sentence": "In many developing countries, there is scant access to quality education, which hinder economical growth"
+  },
+  {
+    "Word": "Onset",
+    "similarWord": "229;506",
+    "Meaning": "beginning of something(unpleasant)",
+    "Synonym": "outset"
+  },
+  {
+    "Word": "Pertinent",
+    "similarWord": 170,
+    "Meaning": "relevant to a particular subject",
+    "rate": 2
+  },
+  {
+    "Word": "impertinent",
+    "Meaning": "rude or disrespectful",
+    "Synonym": "disregard",
+    "Sentence": "The teacher addressed the student’s impertinent remarks, reminding the class to maintain respect during discussions"
+  },
+  {
+    "Word": "Embellish",
+    "similarWord": 283,
+    "Meaning": "decorate",
+    "Synonym": "adorn",
+    "rate": 2,
+    "VideoID": "-IB33Y2aH9E"
+  },
+  {
+    "Word": "Descent",
+    "similarWord": 173,
+    "Meaning": "act changing to a worse state",
+    "Sentence": "The climbers were faced with a dangerous descent in bad weather; the book describes his descent into a deep depression after the death of his wife"
+  },
+  {
+    "Word": "Discernible(adj)",
+    "Meaning": "recognize or distinguish clearly; perceive something with clarity",
+    "Synonym": "discern",
+    "rate": 4,
+    "VideoID": "IQNKyAqanaw",
+    "Sentence": "In a world filled with misinformation, it is crucial to discern the truth from falsehood"
+  },
+  { "Word": "Seek→sought", "Meaning": "find" },
+  { "Word": "Dampen", "Meaning": "reduce" },
+  {
+    "Word": "Elucidate",
+    "Meaning": "clear and easy to understand",
+    "Synonym": "patent"
+  },
+  {
+    "Word": "Rekindles",
+    "Meaning": "Make the unpleasant situation happen again"
+  },
+  {
+    "Word": "Substantiate",
+    "Meaning": "support or proof to support claim",
+    "rate": 3,
+    "VideoID": "NOmSr64FKic",
+    "Sentence": "A scientist might substantiate a hypothesis with experimental data"
+  },
+  { "Word": "Delegate", "Meaning": "representative" },
+  { "Word": "Accuse of", "Meaning": "blame" },
+  {
+    "Word": "conduct towards the child",
+    "Meaning": "behavior could be positive or negative"
+  },
+  {
+    "Word": "Lavish",
+    "Meaning": "elaborate and impressive",
+    "Synonym": "magnificent",
+    "VideoID": "oNK_Gzm2TdY"
+  },
+  { "Word": "Antipathy", "Meaning": "hostility" },
+  { "Word": "Ration", "Meaning": "control" },
+  {
+    "Word": "Stint",
+    "Meaning": "to stop; to be restrained(money, resource, effort)",
+    "rate": 3,
+    "VideoID": "_xddoAOPe1M",
+    "Sentence": "he stinted himself to save money for his family"
+  },
+  {
+    "Word": "Obscure",
+    "Meaning": "unknown; unclear; difficult to understand",
+    "Synonym": "cryptic",
+    "rate": 3,
+    "Sentence": "The path through the forest was obscure, hidden by overgrown plants;his cryptic smile made everyone wonder what he was hiding"
+  },
+  { "Word": "Imprecise", "Meaning": "not clear" },
+  {
+    "Word": "Splendid",
+    "similarWord": "350;622",
+    "Meaning": "excellent",
+    "Synonym": "sterling",
+    "VideoID": "j4yC8LCEcVQ",
+    "Sentence": "She has a sterling[=high quality] reputation in her field"
+  },
+  {
+    "Word": "Cautious",
+    "Meaning": "Very careful",
+    "Synonym": "circumspect",
+    "rate": 4
+  },
+  { "Word": "Enmesh", "Meaning": "to catch; entangled or deeply involved" },
+  {
+    "Word": "Painstaking",
+    "Meaning": "meticulous",
+    "VideoID": "stMSVCwjz44",
+    "Sentence": "A meticulous approach to studying can significantly improve academic performance"
+  },
+  { "Word": "Disinterested", "Meaning": "neutral" },
+  {
+    "Word": "fervent",
+    "Meaning": "passionate",
+    "Synonym": "ardent; avid",
+    "VideoID": "V-itf9Ymyfk",
+    "Sentence": "Many successful entrepreneurs are known for their ardent dedication to their goal, often working tirelessly to turn their vision into reality, even in the face of significant challenges;She is an avid traveler, always planning her next adventure to a new country;Ardent learners often seek out additional resources and opportunities to expand their knowledge beyond the classroom"
+  },
+  {
+    "Word": "Peril",
+    "similarWord": "218;304;429;476;521;537;699",
+    "Meaning": "danger",
+    "Synonym": "Hazardous"
+  },
+  {
+    "Word": "Precarious",
+    "Meaning": "uncertain or unstable",
+    "Sentence": "The countries political situation remain precarious, with frequent change in leadership and policy"
+  },
+  { "Word": "Apt", "Meaning": "suitable", "Synonym": "felicitous" },
+  { "Word": "Adolescent", "Meaning": "teenage", "Synonym": "juvenescent" },
+  { "Word": "Nevertheless", "Meaning": "in spite of that" },
+  {
+    "Word": "Impressionable",
+    "Meaning": "A person who not very critical and easy to influence(because young)"
+  },
+  { "Word": "Ingenious", "similarWord": 201, "Meaning": "brilliant; clever" },
+  {
+    "Word": "Ingenuous",
+    "Meaning": "innocent; honest",
+    "Sentence": "She gave an ingenuous answer, unaware of the hidden implications of the question"
+  },
+  {
+    "Word": "Decisive",
+    "similarWord": 121,
+    "Meaning": "ability to make quick decision",
+    "rate": 2,
+    "Sentence": "In emergency situation,one must be able to take decisive action"
+  },
+  {
+    "Word": "Obstinate",
+    "similarWord": "305;346;698",
+    "Meaning": "stubborn",
+    "Synonym": "dogged;persistent",
+    "rate": 2,
+    "VideoID": "KyOYnqcXnyg"
+  },
+  {
+    "Word": "Naive",
+    "similarWord": "350;69",
+    "Meaning": "innocent",
+    "Synonym": "candour; gullible;inexperience",
+    "VideoID": "rj28W5uVcvk"
+  },
+  {
+    "Word": "Dormant",
+    "Meaning": "sleeping; inactive",
+    "Synonym": "latent; supine",
+    "rate": 4
+  },
+  { "Word": "Eruption", "Meaning": "explosion" },
+  { "Word": "Belie", "Meaning": "contradict" },
+  {
+    "Word": "Gauge(v)",
+    "Meaning": "Measure; calculate; force them to pay an unfairly high price"
+  },
+  {
+    "Word": "Ephemeral",
+    "Meaning": "Short-lived",
+    "Synonym": "transient; transitory;momentary",
+    "rate": 2,
+    "Sentence": "The momentary joy of winning the game was quickly replaced by the pressure of preparing for the next match"
+  },
+  { "Word": "Negate", "Meaning": "make ineffective", "VideoID": "sOqbJMcDiVA" },
+  { "Word": "Engender", "Meaning": "produce; cause to happen" },
+  {
+    "Word": "Propensity",
+    "Meaning": "tendency",
+    "Synonym": "Proclivity",
+    "VideoID": "0wKsgDtXhVw"
+  },
+  {
+    "Word": "Obviate",
+    "Meaning": "remove a problem by taking advance action(problem or need)",
+    "Synonym": "avert;preclude",
+    "rate": 2,
+    "VideoID": "3LAGc9kBsAw",
+    "Sentence": "The development of renewable energy sources, such as solar and wind power, could obviate the need for fossil fuels, reducing environmental damage"
+  },
+  {
+    "Word": "Cant",
+    "Meaning": "hypocritical talk",
+    "Sentence": "I think the people are sick of hypocrisy and cant from their leaders; if they’d stop canting about ‘honest work’ they might get somewhere"
+  },
+  {
+    "Word": "Arcane",
+    "Meaning": "mysterious",
+    "Synonym": "bemused",
+    "VideoID": "ydRgqhquo8o",
+    "Sentence": "An arcane scientific puzzle;An arcane ritual;a theory filled with arcane details"
+  },
+  {
+    "Word": "Intuitive",
+    "Meaning": "known or understand without any proof",
+    "Synonym": "instinctive",
+    "rate": 3,
+    "VideoID": "bLxdpxVd-lk",
+    "Sentence": "she has an intuitive understanding of the business"
+  },
+  {
+    "Word": "Sail(v)",
+    "Meaning": "move smoothly(person or thing)",
+    "Sentence": "he sailed into the room;she sailed through the exam/course"
+  },
+  {
+    "Word": "Pitfall",
+    "Meaning": "difficulty;danger(that is hidden or not obvious at first)",
+    "Synonym": "peril",
+    "Sentence": "I warned him about the pitfall of the online dating;his career is in peril;the species is in peril"
+  },
+  { "Word": "Nightmare", "Meaning": "bad dream" },
+  {
+    "Word": "Delight",
+    "Meaning": "pleasure",
+    "Synonym": "rapture",
+    "rate": 3,
+    "VideoID": "0L8Nf4ewyL0",
+    "Sentence": "We watch the fireworks with delight;the trip was a delight;the stories will delight readers of all ages"
+  },
+  {
+    "Word": "Precedence",
+    "Meaning": "lead",
+    "rate": 2,
+    "Sentence": "Many small businesses complain that the government’s polices give precedence to large corporations"
+  },
+  {
+    "Word": "Precedent",
+    "Meaning": "example to be followed in the future",
+    "Sentence": "the Judge’s ruling was based on a precedent[=example] established by an earlier decision   "
+  },
+  {
+    "Word": "Dilemma",
+    "Meaning": "problem",
+    "Sentence": "We are facing a terrible dilemma"
+  },
+  { "Word": "Bask in", "Meaning": "to take pleasure" },
+  {
+    "Word": "Gloat over",
+    "Meaning": "to feel or express great pleasure or satisfaction"
+  },
+  {
+    "Word": "Shrug off",
+    "Meaning": "dismiss; reject",
+    "VideoID": "iHpHdWkNp6E",
+    "Sentence": "The managing director shrugged off the criticism"
+  },
+  {
+    "Word": "Exorbitant",
+    "similarWord": "236;436",
+    "Meaning": "extremely high",
+    "rate": 5,
+    "VideoID": "YiMea1R8D8E",
+    "Sentence": "exorbitant fees/costs/expenses;they were charged exorbitant rates for phone calls"
+  },
+  {
+    "Word": "Impede",
+    "Meaning": "hinder",
+    "Sentence": "he claims that the economic growth is being impeded by government regulation"
+  },
+  {
+    "Word": "Incipient",
+    "Meaning": "beginning to happen or develop",
+    "Synonym": "muddled",
+    "VideoID": "vnjWa1mIUbw",
+    "Sentence": "an incipient romance;the project is still in its incipient stages"
+  },
+  {
+    "Word": "Rift",
+    "Meaning": "split",
+    "Sentence": "The fight will only widen the rift with his brother"
+  },
+  {
+    "Word": "Adamant",
+    "Meaning": "determined; fixed",
+    "Sentence": "She is an adamant defender of women’s rights"
+  },
+  {
+    "Word": "Assertion",
+    "Meaning": "declaration",
+    "Synonym": "aver",
+    "rate": 3,
+    "Sentence": "“Poverty is the city’s most serious problem” the authors assert;Despite the evidence against him, he has continued to assert his innocence"
+  },
+  {
+    "Word": "Acquaintance",
+    "Meaning": "someone who is known but not close friend",
+    "Sentence": "She ran into an old acquaintance at the grocery store"
+  },
+  {
+    "Word": "Foreknowledge",
+    "Meaning": "prior knowledge; previous knowledge",
+    "Sentence": "He denied any foreknowledge of the crime"
+  },
+  {
+    "Word": "Prudence",
+    "similarWord": 565,
+    "Meaning": "good judgement;wisdom",
+    "rate": 2,
+    "VideoID": "AT_nU-S52SY",
+    "Sentence": "He always exercises prudence with his finances"
+  },
+  {
+    "Word": "Exonerate",
+    "similarWord": 436,
+    "Meaning": "absolve from blame;relieve",
+    "Synonym": "pardon;exculpate",
+    "Sentence": "Evidence that will exonerate her from the charges;A review of the evidence led to her complete exoneration"
+  },
+  {
+    "Word": "Forestall",
+    "similarWord": "18;213",
+    "Meaning": "prevent by taking advance action",
+    "Sentence": "Negotiations failed to forestall the conflict;he forestalled critics by offering  a defense of the project"
+  },
+  { "Word": "Rift", "Meaning": "break apart" },
+  {
+    "Word": "Entitle",
+    "Meaning": "you have the right to have it or do it or believing oneself to be inherently deserving",
+    "VideoID": "1Va6LilsAXs",
+    "Sentence": "The card entitles us to a discount"
+  },
+  {
+    "Word": "Strive",
+    "Meaning": "make great efforts to achieve",
+    "Sentence": "We must all strive to do better;they strove for success"
+  },
+  {
+    "Word": "Subtle",
+    "Meaning": "not immediately noticeable; the truth is subtly different",
+    "VideoID": "905OdG56k94",
+    "Sentence": "A subtle difference in meaning between the words;he didn’t seem to understand my subtle hints"
+  },
+  {
+    "Word": "Obligation",
+    "Meaning": "duty",
+    "Sentence": "The firm must fulfill its obligations under the contract"
+  },
+  {
+    "Word": "Conscience",
+    "similarWord": "745;151",
+    "Meaning": "sense of right",
+    "Sentence": "He doesn’t seem to have a conscience; her conscience was bothering her,so she finally told the truth"
+  },
+  {
+    "Word": "Chastisement",
+    "Meaning": "severe criticism or punishment",
+    "Sentence": "The waiter was chastised for forgetting the customer’s order"
+  },
+  {
+    "Word": "Eloquence",
+    "Meaning": "Very fluent; fluent speaking or writing;clearly showing feeling",
+    "Synonym": "grandiloquence;rhetoric",
+    "rate": 3,
+    "VideoID": "CJ8Je3_LWvg",
+    "Sentence": "His success serves as an eloquent reminder of the value of the hard work; her eloquent speech captivate[=hold the attention] the audience"
+  },
+  {
+    "Word": "Reproach",
+    "Meaning": "reproof",
+    "Sentence": "She looked at him with reproach;his action were above reproach;the fear of reproof prevented them from complaining"
+  },
+  {
+    "Word": "Prompt(someone)",
+    "Meaning": "to be the cause of something;give rise to",
+    "Synonym": "swift;induce",
+    "rate": 2,
+    "Sentence": "Curiosity prompted her to ask a few question;the evidence prompted a criminal investigation"
+  },
+  {
+    "Word": "Allure",
+    "Meaning": "attractive",
+    "Sentence": "These rare books hold special allure for collectors"
+  },
+  {
+    "Word": "Qualm",
+    "Meaning": "feeling of doubt or worry(one’s own conduct or misgiving)",
+    "rate": 4,
+    "VideoID": "ot0NgLGeupk",
+    "Sentence": "He accepted their offer without a qualm"
+  },
+  {
+    "Word": "Atonement",
+    "Meaning": "compensation",
+    "rate": 2,
+    "VideoID": "9S9LQWJwwH4",
+    "Sentence": "He says that he volunteers at the homeless shelter as a way to atone for the sins of his youth"
+  },
+  {
+    "Word": "Condone",
+    "Meaning": "forgive",
+    "Synonym": "pardon",
+    "rate": 2,
+    "Sentence": "A government that has been accused of condoning racism"
+  },
+  {
+    "Word": "Incorporate",
+    "Meaning": "include",
+    "rate": 2,
+    "VideoID": "X4-td2k2Amg",
+    "Sentence": "A diet that incorporates many different fruits and vegetables;the results of the study were incorporated in the final report"
+  },
+  {
+    "Word": "Monotony",
+    "Meaning": "tedium; boring",
+    "Sentence": "The movie was three hours of tedium;I took a day off to relieve the tedium of work"
+  },
+  {
+    "Word": "Infer",
+    "Meaning": "understand",
+    "Sentence": "It is difficult to infer how these changes will affect ordinary citizens"
+  },
+  {
+    "Word": "Triumph",
+    "Meaning": "success(by lot of skill or effort)",
+    "Synonym": "prevail",
+    "Sentence": "They celebrated their triumph with a parade through the streets of the city;Efforts to promote renewable energy must prevail over the continued use of fossil fuel to combat climate change  "
+  },
+  {
+    "Word": "Perpetual",
+    "Meaning": "everlasting",
+    "rate": 3,
+    "VideoID": "MGp1DuYOIZI",
+    "Sentence": "Lack of government funding has been a perpetual problem for the organization"
+  },
+  {
+    "Word": "Tentative",
+    "similarWord": 258,
+    "Meaning": "provisional; preliminary(not done with confidence)",
+    "rate": 3,
+    "Sentence": "The baby’s first tentative steps"
+  },
+  {
+    "Word": "Tenuous",
+    "Meaning": "weak(often refer to weak argument or connection)"
+  },
+  { "Word": "Fate", "Meaning": "destiny" },
+  {
+    "Word": "Savor",
+    "Meaning": "savor an experience, you enjoy it as much as you can;like",
+    "rate": 3,
+    "VideoID": "u0z7xa6TzYs"
+  },
+  {
+    "Word": "Heterodox",
+    "Meaning": "unorthodox(not agree with established beliefs)",
+    "Sentence": "A heterodox religious thinker"
+  },
+  { "Word": "Descry", "Meaning": "to see, notice", "VideoID": "7VADCXnXdkE" },
+  {
+    "Word": "Inure",
+    "Meaning": "accustom to (something unpleasant)",
+    "Sentence": "We quickly became inured to his sarcasm"
+  },
+  {
+    "Word": "Reluctant",
+    "Meaning": "unwilling",
+    "Synonym": " disinclined",
+    "Sentence": "He might agree but seems reluctant to  admit it"
+  },
+  {
+    "Word": "Mediocrity",
+    "Meaning": "common or average quality",
+    "VideoID": "0yZ209qJx84"
+  },
+  {
+    "Word": "Extrapolate",
+    "Meaning": "extend by inferring unknown value",
+    "Sentence": "They extrapolated these results from their research"
+  },
+  {
+    "Word": "Former",
+    "Meaning": "previous time",
+    "Synonym": "bygone",
+    "Sentence": "I hope to restore the old theater to its former glory; Bygone traditions offer insight into ancestral value"
+  },
+  {
+    "Word": "Debase",
+    "Meaning": "reduce it value or quantity",
+    "Sentence": "The holiday has been debased by commercialism;Those ads are debasing to women"
+  },
+  {
+    "Word": "conceal",
+    "Meaning": "hidden",
+    "Synonym": "mask; clandestine",
+    "Sentence": "The editorial accused the government of concealing the truth"
+  },
+  {
+    "Word": "Forfeit",
+    "Meaning": "lose something; give up",
+    "Synonym": "relinquish; yield",
+    "rate": 4,
+    "VideoID": "PT_e5JiNgW0",
+    "Sentence": "they didn’t have enough players, so they ended up having to forfeit the game; he forfeit his right to a trial by jury"
+  },
+  {
+    "Word": "Perennial",
+    "Meaning": "permanent",
+    "VideoID": "4f-q-x9tG2w",
+    "Sentence": "Flooding is a perennial problem for the people living by the river"
+  },
+  {
+    "Word": "Organism",
+    "Meaning": "animal or plant specially that is so small to see"
+  },
+  { "Word": "relate a to b" },
+  { "Word": "Banal", "Meaning": "ordinary; unoriginal" },
+  {
+    "Word": "Heretical",
+    "similarWord": 428,
+    "Meaning": "most people think it is wrong because it disagree with belief",
+    "Synonym": "dissident;apostate;heterodox",
+    "Sentence": "It would be heretical to suggest changing company policy"
+  },
+  { "Word": "to...that ...to..that" },
+  {
+    "Word": "Seize",
+    "Meaning": "take;grab",
+    "VideoID": "AcmK1HETG1g",
+    "Sentence": "Police seized [=confiscated] the weapons and drug; the army has seized control of the city"
+  },
+  {
+    "Word": "Supplanted",
+    "Meaning": "replace",
+    "VideoID": "7UkZXmvQa7k",
+    "Sentence": "Videos has been supplanted by DVDs"
+  },
+  {
+    "Word": "Culminate",
+    "Meaning": "end",
+    "Sentence": "The investigation culminated with several arrests"
+  },
+  {
+    "Word": "Sabotage",
+    "similarWord": "595;611;639;115;121;127",
+    "Meaning": "destroy",
+    "Synonym": "vandalize;shattered",
+    "rate": 3,
+    "Sentence": "Angry workers were responsible for the sabotage of the machines;Corruption scandals have shattered public confidence in the government, leading to widespread protests"
+  },
+  {
+    "Word": "Preeminent",
+    "Meaning": "greatest",
+    "Synonym": "eminent;noted; distinguish",
+    "Sentence": "An eminent physician"
+  },
+  {
+    "Word": "Credulity",
+    "Meaning": "gullible",
+    "rate": 3,
+    "Sentence": "Although most of the book is believable, its ending tests/strains credulity"
+  },
+  {
+    "Word": "Embroider",
+    "similarWord": 284,
+    "Meaning": "decorate",
+    "Sentence": "He is  known to embroider the truth about his service in the army"
+  },
+  {
+    "Word": "Embroid",
+    "Meaning": "deeply involve",
+    "Sentence": "Activists have embroiled themselves in the fight against deforestation, recognizing its critical role in combating climate change"
+  },
+  { "Word": "Introspection", "Meaning": "Self-analysis" },
+  { "Word": "Boredom", "Meaning": "the state of filling bore" },
+  {
+    "Word": "Indolence",
+    "Meaning": "inactivity",
+    "rate": 3,
+    "Sentence": "Some argue that television encourages indolence"
+  },
+  {
+    "Word": "Iniquitous",
+    "Meaning": "unfair and morally wrong",
+    "Synonym": "Heinous;invidious(to cause resentment,anger)",
+    "rate": 3,
+    "VideoID": "0b4MFxwt5d4",
+    "Sentence": "An iniquitous war;The invidious comparison between the two student made one feel inferior"
+  },
+  {
+    "Word": "Impiety",
+    "Meaning": "Lack of piety or reverence",
+    "Sentence": "He blamed the fall of the city on the impiety of the people"
+  },
+  {
+    "Word": "Reverence",
+    "Meaning": "great respect or admiration",
+    "Synonym": "deferential; laudable",
+    "rate": 3,
+    "Sentence": "Her poems are treated with reverence by other poets"
+  },
+  {
+    "Word": "Wicked",
+    "Meaning": "evil; immoral",
+    "Sentence": "She played the part of the wicked stepmother in the play"
+  },
+  { "Word": "Unpalatable", "Meaning": "unpleasant;disagreeable", "rate": 2 },
+  {
+    "Word": "Conspicuous",
+    "Meaning": "clearly visible",
+    "rate": 4,
+    "VideoID": "lYsY7qOtH-M",
+    "Sentence": "The business was a conspicuous success; there were a number of conspicuous changes to the building"
+  },
+  {
+    "Word": "Hoard",
+    "Meaning": "Large amount(kept hidden)",
+    "Sentence": "a hoard of jewels"
+  },
+  {
+    "Word": "Trample",
+    "Meaning": "to cause damage by walking heavily",
+    "Sentence": "Many people were trampled to death trying to escape the burning building"
+  },
+  {
+    "Word": "Retain",
+    "Meaning": "keep; hold on",
+    "rate": 3,
+    "Sentence": "Many indigenous communities strive[=struggle or fight] to retain their traditional customs and language despite modernization;The TV show has retained its popularity for many years;The team fail to retain him and he become a free agent"
+  },
+  {
+    "Word": "Allege",
+    "Meaning": "claim; declare something publically;",
+    "Synonym": "proclaim(government or scientist);professed(person)"
+  },
+  { "Word": "Redundant", "Meaning": "superfluous" },
+  {
+    "Word": "Perfunctory",
+    "Meaning": "without real effort or attention",
+    "Synonym": "cursory",
+    "rate": 3,
+    "VideoID": "MvUTd-KhgZY",
+    "Sentence": "He made a perfunctory statement supporting the mayor"
+  },
+  {
+    "Word": "Feigned",
+    "Meaning": "not real",
+    "Synonym": "derivative",
+    "rate": 2,
+    "Sentence": "He would often feign illness to get out of the class;The artist’s work was criticized for being derivative of Picasso’s style"
+  },
+  {
+    "Word": "Imitative",
+    "Meaning": "copying other’s behaviour",
+    "Synonym": "echo",
+    "rate": 2,
+    "Sentence": "The architecture is imitative of a Japanese temple"
+  },
+  {
+    "Word": "Intemperance",
+    "Meaning": "lack of restraint",
+    "VideoID": "hjEE-DVFjOw",
+    "Sentence": "We wrote an intemperate letter to his congresswoman"
+  },
+  {
+    "Word": "Diffidence",
+    "Meaning": "lack of confidence; shyness; self-doubt",
+    "Synonym": "timid; timorous",
+    "rate": 2,
+    "Sentence": "He becomes diffident around girls"
+  },
+  {
+    "Word": "Acute",
+    "Meaning": "dangerous;critical",
+    "Synonym": "astute",
+    "VideoID": "_smu4GH8OyY",
+    "Sentence": "An acute fuel shortage;an acute crisis;it’s a politically acute film that does not oversimplify the issue"
+  },
+  {
+    "Word": "Refractory",
+    "Meaning": "stubborn",
+    "Synonym": "recalcitrant",
+    "rate": 3,
+    "VideoID": "RWG4jF2YoZI",
+    "Sentence": "A refractory disease;a refractory child"
+  },
+  { "Word": "Consequently", "Meaning": "result of an action,decision" },
+  {
+    "Word": "Ramification",
+    "Meaning": "a complex and unwelcome consequence",
+    "Synonym": "aftermath;repercussion",
+    "rate": 2,
+    "Sentence": "The government’s actions in this case could have major political ramification;In the aftermath[=the period of time after a bad event] of the fire, many people were in need of shelter;The country is rebuilding it’s economy in the aftermath of the war;In the aftermath of the war left the country in economic ruin"
+  },
+  {
+    "Word": "Redeem",
+    "Meaning": "compensate for the fault",
+    "VideoID": "5faBXKzRZNM",
+    "Sentence": "The restaurant’s excellent service is not enough to redeem the mediocre food;He went to redeem his reputation"
+  },
+  {
+    "Word": "Vindicate",
+    "similarWord": 310,
+    "Meaning": "proof(not be blame for a crime)",
+    "Synonym": "testament",
+    "rate": 5,
+    "VideoID": "eXX2P66tAYM",
+    "Sentence": "They have evidence that will vindicate[=exonerate] her;The rapid development of technology is a testament to human ingenuity and creativity"
+  },
+  {
+    "Word": "Vindictive",
+    "Meaning": "showing strong desire for revenge",
+    "Synonym": "retribution;retaliation",
+    "rate": 4,
+    "Sentence": "Some argue that the death penalty serves as just retribution for heinous crimes, while other view it as inhumane"
+  },
+  {
+    "Word": "Undermine",
+    "Meaning": "erode",
+    "Synonym": "sabotage;vandalize",
+    "rate": 2,
+    "VideoID": "F2pSKlzyrO8"
+  },
+  {
+    "Word": "Tedious",
+    "Meaning": "boring",
+    "Sentence": "He made a tedious 45-minute speech"
+  },
+  {
+    "Word": "Anomalous",
+    "Meaning": "abnormal; exceptional",
+    "Sentence": "Researchers could not explain the anomalous test result"
+  },
+  {
+    "Word": "Enduring",
+    "similarWord": 303,
+    "Meaning": "lasting over a period of time (  সহ্য করা  )",
+    "rate": 3,
+    "Sentence": "This tradition has endured for centuries;she wants to make sure her legacy will endure;the refugees have endured[=suffered] more hardship than most people can imagine  "
+  },
+  {
+    "Word": "Preempt",
+    "Meaning": "prevent an activity from happening(by doing something else that make it impossible)",
+    "VideoID": "cK7F4-18dog",
+    "Sentence": "The President’s speech preempted[=to take the place of] regular programming"
+  },
+  {
+    "Word": "Endorsement",
+    "similarWord": 301,
+    "Meaning": "approval;support",
+    "Synonym": "corroborate",
+    "rate": 5,
+    "VideoID": "O90wWT4rDA4",
+    "Sentence": "Without official endorsement, the project can not proceed"
+  },
+  {
+    "Word": "Oppressive",
+    "Meaning": "harsh",
+    "VideoID": "u13AvBzb2P4",
+    "Sentence": "I think these laws are oppressive;this region suffers from oppressive heat in the summer months"
+  },
+  {
+    "Word": "Restitution",
+    "Meaning": "compensation; refund",
+    "Sentence": "He was ordered to make restitution to the victim"
+  },
+  {
+    "Word": "Speculation",
+    "Meaning": "guess",
+    "Synonym": "conjecture",
+    "rate": 4,
+    "VideoID": "j8SdspVG1kg",
+    "Sentence": "The book is just a lot of idle speculation about the future"
+  },
+  {
+    "Word": "Inexhaustible",
+    "Meaning": "unlimited",
+    "Sentence": "The world’s supply of oil is not inexhaustible"
+  },
+  {
+    "Word": "Surrogate",
+    "Meaning": "substitute;proxy",
+    "Sentence": "He could not attend the meeting, so he sent his surrogate"
+  },
+  {
+    "Word": "Inimical",
+    "Meaning": "harmful; injurious;deleterious",
+    "VideoID": "mPIHZIGgj-E",
+    "Sentence": "Dry condition can be inimical to plant life;the drug has no deleterious effects on patients"
+  },
+  {
+    "Word": "Conducive",
+    "Meaning": "helpful",
+    "rate": 4,
+    "VideoID": "sKIJUrOm76c",
+    "Sentence": "The school tries to create an atmosphere conducive to learning"
+  },
+  {
+    "Word": "Skeptical",
+    "Meaning": "doubtful;dubious;sceptical",
+    "Synonym": "incredulous",
+    "Sentence": "I am skeptical that he can win"
+  },
+  {
+    "Word": "Eclectic",
+    "Meaning": "wide; broad(include thing taken from many different sources)",
+    "rate": 3,
+    "VideoID": "t5TMxS5SrTo",
+    "Sentence": "The collection includes an eclectic mix of historical artifacts"
+  },
+  {
+    "Word": "Doctrinaire",
+    "Meaning": "rigid, adamant",
+    "Sentence": "The senator is less doctrinaire than generally believe"
+  },
+  { "Word": "Censor", "Meaning": "Editor" },
+  { "Word": "Censorious", "Meaning": "ত্রুটিসন্ধানী" },
+  {
+    "Word": "Disciple",
+    "similarWord": "870;173",
+    "Meaning": "follower",
+    "rate": 2,
+    "VideoID": "NMgA7q0WgNc"
+  },
+  {
+    "Word": "Revitalize",
+    "Meaning": "Re-energize",
+    "Sentence": "The mayor hopes to revitalize the city;the drink revitalize me"
+  },
+  {
+    "Word": "Idiosyncratic",
+    "Meaning": "individual(unusual part or feature)",
+    "rate": 3,
+    "VideoID": "ndkDz3kG-kE",
+    "Sentence": "The current system has a few idiosyncrasies; she has an idiosyncratic singing voice"
+  },
+  {
+    "Word": "Formidable",
+    "Meaning": "very powerful or strong",
+    "Synonym": "substantial",
+    "rate": 2,
+    "VideoID": "m98HfFfFWTI",
+    "Sentence": "The mountains were a formidable barrier; a formidable enemy/opponent/weapon"
+  },
+  {
+    "Word": "Ferocity",
+    "Meaning": "violence",
+    "VideoID": "6QuekCVfLSs",
+    "Sentence": "We were stunned by the ferocity of the storm"
+  },
+  {
+    "Word": "Immense",
+    "Meaning": "huge",
+    "Sentence": "there is a immense potential in milk"
+  },
+  {
+    "Word": "Adversity",
+    "Meaning": "difficult",
+    "Sentence": "We had to learn to deal with adversity"
+  },
+  {
+    "Word": "Ameliorate",
+    "similarWord": 11,
+    "Meaning": "improve",
+    "rate": 2,
+    "Sentence": "This medicine should help ameliorate the pain"
+  },
+  { "Word": "Legitimize", "Meaning": "validate", "VideoID": "X5o4PpbkNTk" },
+  {
+    "Word": "Embody",
+    "Meaning": "include or to represent(something) in a clear and obvious way",
+    "Sentence": "He is a leader who embodies courage;The new law embodies a revenue provision"
+  },
+  {
+    "Word": "Mundane",
+    "similarWord": 560,
+    "Meaning": "tedious; boring; ordinary",
+    "Synonym": "quotidian",
+    "Sentence": "They lead a pretty mundane life;The quotidian challenges of living in a city, such as traffic and pollution, can have a significant impact on residents quality of life"
+  },
+  {
+    "Word": "Decried/Decry",
+    "Meaning": "condemn;to say publicly and forcefully as bad or wrong",
+    "Synonym": "censure",
+    "rate": 3,
+    "VideoID": "7VADCXnXdkE",
+    "Sentence": "In her article, she decries the pollution of the environment by manufactures; Parents decried the movie’s emphasis on sex"
+  },
+  {
+    "Word": "Plausible",
+    "Meaning": "believable",
+    "rate": 3,
+    "VideoID": "TnxozBG_MbY",
+    "Sentence": "I thought her explanation was perfectly plausible"
+  },
+  {
+    "Word": "Circumspect",
+    "Meaning": "careful",
+    "Sentence": "They are circumspect [=cautious] in all their business dealing"
+  },
+  {
+    "Word": "Obsequious",
+    "Meaning": "servile;oily; too eager to help or obey",
+    "VideoID": "Vn4u8mw3zVA",
+    "Sentence": "she is constantly followed by obsequious assistants who will do anything she tell them to"
+  },
+  {
+    "Word": "Nonplussed",
+    "Meaning": "confused or surprised",
+    "VideoID": "ZOTLYGWoEYo",
+    "Sentence": "He was nonplussed by his daughter’s confession that she had stolen the CD"
+  },
+  {
+    "Word": "Deferential",
+    "Meaning": "showing respect",
+    "Synonym": "homage;fidelity",
+    "VideoID": "bEkCA64EYUQ",
+    "Sentence": "He is shown much deference by his colleagues;Her relative treat one another with  deference"
+  },
+  {
+    "Word": "Intransigent",
+    "Meaning": "unwilling to compromise; very stubborn",
+    "VideoID": "TXyNWj5sfBw",
+    "Sentence": "he has remained intransigent in his opposition to his proposal"
+  },
+  {
+    "Word": "Recourse",
+    "Meaning": "alternative",
+    "Sentence": "She has no legal recourse against the magazine"
+  },
+  {
+    "Word": "Instinctive",
+    "Meaning": "natural",
+    "Synonym": "intuitive",
+    "VideoID": "jfINmVgivlw",
+    "Sentence": "Cats have an instinctive desire to hunt"
+  },
+  { "Word": "Fatuous", "Meaning": "stupid", "Sentence": "Fatuous remark" },
+  {
+    "Word": "Candid",
+    "similarWord": "840;503;638",
+    "Meaning": "honest; frank; forthright",
+    "Synonym": "candor(n)",
+    "rate": 4,
+    "VideoID": "rj28W5uVcvk",
+    "Sentence": "She was quite candid about her post;She spoke candidly about some of the difficulties she had been experiencing;a forthright answer/person; The lack of candor in government communications often lead to public distrust; A candid discussion about climate change is necessary to address its urgent challenges"
+  },
+  {
+    "Word": "Rancorous",
+    "Meaning": "an angry filling",
+    "Synonym": "malicious; acrimonious;caustic",
+    "rate": 3,
+    "VideoID": "aD8bHWG0b1k",
+    "Sentence": "In the end, the debate created a degree of rancor among the committee members;Acrimonious disputes between nations"
+  },
+  {
+    "Word": "Cogent",
+    "Meaning": "strong",
+    "Sentence": "She offers some cogent reasons for building new schools"
+  },
+  { "Word": "And..So..could", "Meaning": "agree with something" },
+  { "Word": "And ...Neither ...could", "Meaning": "not agree with something" },
+  {
+    "Word": "yield",
+    "Meaning": "produce; submit",
+    "VideoID": "W6TFVI3WspY",
+    "Sentence": "New methods have yielded promising result in the field"
+  },
+  {
+    "Word": "Commensurate",
+    "similarWord": "494;503",
+    "Meaning": "equal in size, degree or amount",
+    "Synonym": "tantamount",
+    "rate": 2,
+    "VideoID": "YXKMDx-xDno",
+    "Sentence": "The punishment should be commensurate with the offense"
+  },
+  { "Word": "abrupt", "Meaning": "sudden" },
+  {
+    "Word": "Impending",
+    "Meaning": "about to happen",
+    "VideoID": "G9_ga2SYgM0",
+    "Sentence": "We need to prepare for their impending arrival"
+  },
+  {
+    "Word": "Bolster",
+    "Meaning": "support; help",
+    "Sentence": "She is thinking of ways to bolster her career"
+  },
+  {
+    "Word": "Plea",
+    "Meaning": "request; appeal",
+    "VideoID": "pMSRzWwOKo8",
+    "Sentence": "We are making a plea to all companies to stop polluting the environment"
+  },
+  {
+    "Word": "Perpetuate",
+    "similarWord": 248,
+    "Meaning": "maintain or continue(especially bad one)",
+    "VideoID": "MGp1DuYOIZI",
+    "Sentence": "The region is in a state of perpetual war"
+  },
+  {
+    "Word": "inescapable",
+    "Meaning": "inevitable",
+    "rate": 2,
+    "Sentence": "It is an inescapable truth that these problems have no easy solution  "
+  },
+  {
+    "Word": "Consolidate",
+    "Meaning": "combine",
+    "Synonym": "solidarity",
+    "Sentence": "The vote was a show of solidarity[=unity between people]"
+  },
+  {
+    "Word": "Ossified",
+    "Meaning": "having become rigid",
+    "Sentence": "Her opinions have ossified"
+  },
+  {
+    "Word": "Intricate",
+    "Meaning": "complex",
+    "Synonym": "entangled; abstruse;convoluted;Byzantine",
+    "rate": 2,
+    "VideoID": "OETkONHNRxY",
+    "Sentence": "The movie has an intricate plot;He got romantically entangled with the girl next door;The legal document was filled with convoluted language"
+  },
+  { "Word": "hurly-burly", "Meaning": "busy" },
+  { "Word": "Prize", "Meaning": "value" },
+  { "Word": "Overhaul", "Meaning": "repair" },
+  {
+    "Word": "Curtail",
+    "Meaning": "cut",
+    "Sentence": "The school activities are being curtailed due to a lack of funds"
+  },
+  { "Word": "Warrant", "Meaning": "officially affirm or guarantee" },
+  {
+    "Word": "Reconcile",
+    "Meaning": "adjust; resolve",
+    "rate": 3,
+    "VideoID": "4tBeEUTRtSo",
+    "Sentence": "I am afraid her story can not be reconciled with the proven facts;His attempt to reconcile his friends was unsuccessful"
+  },
+  {
+    "Word": "Plead",
+    "Meaning": "claim; proclaim",
+    "VideoID": "pMSRzWwOKo8",
+    "Sentence": "She pleaded for forgiveness and got her job back;He pleaded with the judge not to send him to jail"
+  },
+  {
+    "Word": "Disparage",
+    "Meaning": "criticize",
+    "Synonym": "belittle;denigrate; pejorative",
+    "Sentence": "Voters don’t like political advertisements in which opponents disparage one another; The critics belittled the author’s work; Denigration the talents and achievement of women; She felt hurt when her boss would belittle her efforts in front of the team"
+  },
+  {
+    "Word": "Disparate",
+    "Meaning": "different or distinct",
+    "Synonym": "disparity",
+    "Sentence": "The integration of disparate technologies, such as artificial intelligence and renewable energy, has the potential to revolutionize industries and improve quality of life"
+  },
+  {
+    "Word": "Preface",
+    "Meaning": "prelude",
+    "rate": 3,
+    "VideoID": "oYhWz9RwugY",
+    "Sentence": "The dark clouds were a prelude to the storm"
+  },
+  {
+    "Word": "Albeit",
+    "Meaning": "Even though",
+    "Sentence": "It was an amazing computer, albeit expensive"
+  },
+  {
+    "Word": "Indignation",
+    "Meaning": "anger",
+    "Synonym": "resentment;outrage",
+    "rate": 3,
+    "VideoID": "wc5mFdsSZUY",
+    "Sentence": "The decision to close the factory has aroused the indignation of the townspeople;He express his resentment of the new policies"
+  },
+  { "Word": "Definitive", "Meaning": "final" },
+  {
+    "Word": "Repudiate",
+    "Meaning": "reject",
+    "Synonym": "abjure",
+    "VideoID": "QxRnaoGefOc",
+    "Sentence": "He has publicly repudiated the government’s policies;He published an article that repudiates the study’s claims  "
+  },
+  {
+    "Word": "Abandon",
+    "similarWord": 697,
+    "Meaning": "give up completely",
+    "rate": 5,
+    "Sentence": "The child has been abandoned(by his parent) as an infant;He abandoned his family;The approaching fire forced hundreds of people to abandon their homes  "
+  },
+  {
+    "Word": "Precedes",
+    "Meaning": "former",
+    "Sentence": "The country became more conservative in the years that preceded his election"
+  },
+  {
+    "Word": "Anticipate",
+    "Meaning": "expect or predict",
+    "Synonym": "foresee; envisage",
+    "rate": 3,
+    "VideoID": "4io8-NnO-go",
+    "Sentence": "They do not anticipate any major problems during construction;The hotel anticipated my every need"
+  },
+  {
+    "Word": "Incentive",
+    "Meaning": "a thing that motivates or encourages",
+    "Synonym": "abet",
+    "Sentence": "The government offers special tax incentives for entrepreneurs;The company is offering a special low price as an additional incentive for new customers;His family abetted his dream of becoming a musician by supporting him financially"
+  },
+  {
+    "Word": "Distort",
+    "Meaning": "twist out of shape; represent an idea in a untrue way; misrepresent",
+    "rate": 3,
+    "VideoID": "foh8Nhu6vPY",
+    "Sentence": "The loss of both her parents at an early age distorted her outlook on life;His voice sounded distorted over the phone"
+  },
+  {
+    "Word": "Maverick",
+    "Meaning": "unorthodox or independent minded person or who refuse to follow the rule of a group",
+    "VideoID": "2bc9bnZFRm0",
+    "Sentence": "He is always been a maverick in the world of fashion"
+  },
+  {
+    "Word": "Articulate",
+    "Meaning": "having or showing the ability to express ideas clearly",
+    "Synonym": "eloquent",
+    "rate": 3,
+    "VideoID": "JksofVk07oM",
+    "Sentence": "He was very articulate about his fillings on the subject;He spoke with eloquence on the need of better schools"
+  },
+  { "Word": "Medieval", "Meaning": "middle age" },
+  {
+    "Word": "Bequest",
+    "Meaning": "inheritance",
+    "VideoID": "9kzu1_UNQn4",
+    "Sentence": "He made a bequest of his paintings to the museum"
+  },
+  { "Word": "Scarce", "Meaning": "in short supply" },
+  {
+    "Word": "Customary",
+    "Meaning": "traditional; usual",
+    "VideoID": "XtwAcmhyMwQ",
+    "Sentence": "She dressed in her customary fashion"
+  },
+  {
+    "Word": "Spurious",
+    "Meaning": "false or fake",
+    "VideoID": "lk5mWGk1qNE",
+    "Sentence": "spurious kindness"
+  },
+  { "Word": "Blaze", "Meaning": "burn", "Synonym": "conflagration" },
+  {
+    "Word": "Assail",
+    "Meaning": "attack",
+    "Synonym": "assault; invasion",
+    "rate": 3,
+    "VideoID": "Uc129VgU200",
+    "Sentence": "Politicians assailed by the media; The movie was assailed by critics; She was wanted for assault with a deadly weapon"
+  },
+  {
+    "Word": "Abate",
+    "Meaning": "reduce or remove",
+    "Synonym": "subside; extricate",
+    "VideoID": "iMULBqoGJMg",
+    "Sentence": "The excitement has abated; The violence has continued without abatement"
+  },
+  {
+    "Word": "Berate",
+    "Meaning": "rebuke",
+    "Synonym": "reprimand",
+    "rate": 3,
+    "Sentence": "She berated her son for coming home late;She was reprimanded for being late"
+  },
+  {
+    "Word": "Torment",
+    "Meaning": "physical or mental suffering",
+    "Synonym": "torture",
+    "VideoID": "Z_gdRdtMBAA",
+    "Sentence": "After a years of torment, she left her husband; No one could understand her inner torment"
+  },
+  {
+    "Word": "Subside",
+    "Meaning": "abate",
+    "Sentence": "After his anger had subsided, he was able to look at things rationally"
+  },
+  {
+    "Word": "Entrench",
+    "Meaning": "to place in a very strong position; to establish something firmly or securly",
+    "Sentence": "Officials who have tried to entrench themselves in office; Computers are now an entrenched part of modern life;These attitudes are entrenched in our culture  "
+  },
+  {
+    "Word": "Perpetrate",
+    "Meaning": "commit or do(a harmful)",
+    "VideoID": "Vs6cIroxMMA",
+    "Sentence": "The attack was perpetrated by the street gang;The men was planning to perpetrate a robbery;The police caught the perpetrators who robbed the bank"
+  },
+  { "Word": "Sanction", "Meaning": "punishment" },
+  {
+    "Word": "Notion",
+    "Meaning": "an idea or opinion",
+    "rate": 3,
+    "Sentence": "He has some pretty strange notions;she had a vague notion about what happened"
+  },
+  {
+    "Word": "Oblivious",
+    "Meaning": "not aware of",
+    "VideoID": "lyOm2hYNpwQ",
+    "Sentence": "We called out to them,but they remained oblivious; She kept dancing, oblivious to everyone around her  "
+  },
+  {
+    "Word": "Perceptual",
+    "Meaning": "people interpret and understand what they see"
+  },
+  {
+    "Word": "Plunder",
+    "Meaning": "rob;loot",
+    "Synonym": "pillage",
+    "VideoID": "lyOm2hYNpwQ",
+    "Sentence": "The village was plundered by the invading army; The town was pillaged and burned"
+  },
+  {
+    "Word": "Appetite",
+    "Meaning": "hunger",
+    "rate": 2,
+    "VideoID": "MsJ7HhfhhSc",
+    "Sentence": "A healthy sexual appetite; The movie made me less my appetite;Delicious smells from the kitchen whetted our appetites"
+  },
+  {
+    "Word": "Chivalrous",
+    "Meaning": "respect or politeness especially toward women",
+    "VideoID": "26Xo3ywYKNc",
+    "Sentence": "Chivalrous behavior; a chivalrous act"
+  },
+  {
+    "Word": "Quirky",
+    "Meaning": "unusual(but interesting)",
+    "Synonym": "eccentric;",
+    "rate": 2,
+    "VideoID": "3cngBL5FSLs",
+    "Sentence": "Quirky ideas/behavior;she is well known for her quirky dress sence"
+  },
+  {
+    "Word": "Magnanimous",
+    "Meaning": "generous",
+    "VideoID": "Y30q-gQ8CS0",
+    "Sentence": "The team was magnanimous in victory"
+  },
+  {
+    "Word": "Turmoil",
+    "Meaning": "state of great disturbance",
+    "Synonym": "hectic",
+    "rate": 3,
+    "VideoID": "F7rUvmvAEcg",
+    "Sentence": "His life has been in a constant turmoil; a period of political/economic turmoil"
+  },
+  {
+    "Word": "Frantic",
+    "Meaning": "behaving in a wild and uncontrolled way(because you are frighten or worried); hurried activity",
+    "Synonym": "frenetic",
+    "VideoID": "ES6aMBeaxzE",
+    "Sentence": "They made a frantic search for the missing child;They were making frantic preparations for the party"
+  },
+  {
+    "Word": "Utopian",
+    "Meaning": "perfect place(because the idea is unrealistic)",
+    "rate": 3,
+    "VideoID": "nWHgzyyNBsM",
+    "Sentence": "It’s nice place to live but it’s no utopia"
+  },
+  {
+    "Word": "Euphoria",
+    "Meaning": "extreme happiness",
+    "Synonym": "ecstatic",
+    "Sentence": "The initial euphoria following their victory in the election has now subsided"
+  },
+  {
+    "Word": "Deteriorate",
+    "similarWord": 442,
+    "Meaning": "worsen",
+    "Synonym": "decline",
+    "rate": 3,
+    "Sentence": "Her health continues to deteriorate[=decline];The disagreement deteriorated into a fight;The patient’s condition has declined; Oil prices continue to decline; The company declined (not to do) comment on the scandal"
+  },
+  {
+    "Word": "Placid",
+    "Meaning": "clam",
+    "Sentence": "The placid surface of the lake"
+  },
+  {
+    "Word": "Enervate",
+    "Meaning": "To make weaken(energy,enthusiasm)",
+    "rate": 3,
+    "VideoID": "qw2LGTKG7PQ",
+    "Sentence": "The government was enervated by corruption"
+  },
+  {
+    "Word": "Laughable",
+    "Meaning": "ridiculous",
+    "Synonym": "deride;ludicrous",
+    "VideoID": "lEKLZuESsLI",
+    "Sentence": "They held him up to ridicule;the other kids ridiculed him for the way he dressed"
+  },
+  {
+    "Word": "Irresolute",
+    "Meaning": "doubtful;dubious;sceptical;weak",
+    "Sentence": "He has been criticized as an irresolute leader;he says he can win but I remain skeptical    "
+  },
+  {
+    "Word": "Platitude",
+    "Meaning": "overused;banal",
+    "Synonym": "hackneyed; trite",
+    "VideoID": "SUuMoYzs7J0",
+    "Sentence": "His speech was filled with familiar platitudes about the value of hard work and dedication;hackneyed jokes; The speech was trite, filled with overused phrase"
+  },
+  {
+    "Word": "Labyrinthine",
+    "similarWord": 352,
+    "Meaning": "complex",
+    "Synonym": "intricate",
+    "rate": 3,
+    "VideoID": "xILfGrIIkDs"
+  },
+  {
+    "Word": "Plaintive",
+    "Meaning": "sad",
+    "Synonym": "dejected",
+    "rate": 2,
+    "VideoID": "-SKn1Var9Ew"
+  },
+  { "Word": "Foil", "Meaning": "impede" },
+  {
+    "Word": "Complaisance",
+    "Meaning": "obedience",
+    "rate": 2,
+    "Sentence": "He was too complaisant to say no to his brother’s demand"
+  },
+  {
+    "Word": "Complacent",
+    "Meaning": "Self satisfaction",
+    "Sentence": "The strong economy has made people complacent"
+  },
+  { "Word": "Craven", "Meaning": "cowardly" },
+  { "Word": "Gallantry", "Meaning": "bravery" },
+  { "Word": "Insubordinate", "Meaning": "disobedient" },
+  {
+    "Word": "Subordinate",
+    "Meaning": "to treat something as less important; person or something that is lower in rank",
+    "Sentence": "She chose to subordinate her personal interests to the needs of her family"
+  },
+  {
+    "Word": "Heretofore",
+    "Meaning": "something happen or true before but not now",
+    "rate": 3,
+    "Sentence": "The archaeological finding, heretofore undiscovered, have provided new insights into the ancient civilization’s cultural practices   "
+  },
+  {
+    "Word": "Jeopardize",
+    "Meaning": "endanger",
+    "Synonym": "imperil",
+    "rate": 2,
+    "Sentence": "Excessive reliance on fossil fuels not only harms the environment but also jeopardizes the future of sustainable energy development"
+  },
+  {
+    "Word": "Consensus",
+    "Meaning": "a general agreement",
+    "Synonym": "harmony",
+    "rate": 2
+  },
+  { "Word": "Divergent", "similarWord": 805, "Meaning": "different" },
+  {
+    "Word": "Acquittal",
+    "Meaning": "clearance",
+    "Synonym": "exonerate",
+    "VideoID": "NZaPxopc9Qo"
+  },
+  { "Word": "Verdict", "Meaning": "judgement" },
+  { "Word": "Trepidation", "Meaning": "fear", "Synonym": "apprehension" },
+  { "Word": "Surmount", "Meaning": "overcome(difficulty or obstacle)" },
+  {
+    "Word": "Exorcise",
+    "Meaning": "free from evil spirit",
+    "rate": 2,
+    "VideoID": "Y46I7Amtfbk"
+  },
+  { "Word": "Escalation", "Meaning": "rapid increase", "rate": 2 },
+  { "Word": "Contingent", "Meaning": "accidental; party", "rate": 2 },
+  {
+    "Word": "Prodigious",
+    "Meaning": "enormous",
+    "rate": 3,
+    "Sentence": "A prodigious achievement/effort/talent; a prodigious amount"
+  },
+  {
+    "Word": "Vigor",
+    "similarWord": 352,
+    "Meaning": "strength",
+    "Synonym": "robust; gusto; sturdy;firm; cogency",
+    "rate": 3,
+    "Sentence": "She defended her beliefs with great vigor; a robust economy/health/security; she sang with such gusto that the entire audience was captivated"
+  },
+  {
+    "Word": "Quiescent",
+    "Meaning": "inactive",
+    "Synonym": "fallow",
+    "rate": 3,
+    "Sentence": "A quiescent state; a quiescent disease; a quiescent virus"
+  },
+  {
+    "Word": "Thrive",
+    "Meaning": "develop successfully",
+    "rate": 3,
+    "Sentence": "Business is thriving;The region thrived under his rule"
+  },
+  {
+    "Word": "Pervade",
+    "similarWord": 489,
+    "Meaning": "spread through",
+    "Sentence": "Art and music pervade every aspect of their lives;Capitalist values pervade education systems, prioritizing competition over collaboration"
+  },
+  {
+    "Word": "Ailment",
+    "Meaning": "health problem",
+    "rate": 2,
+    "VideoID": "tjUUn4I4tSw",
+    "Sentence": "The doctor treated him for a variety of ailments"
+  },
+  {
+    "Word": "Copious",
+    "Meaning": "large amount(in negative)",
+    "rate": 3,
+    "VideoID": "_gKVMpEEeUw",
+    "Sentence": "The storm produced a copious amount  of rain"
+  },
+  {
+    "Word": "Tweak",
+    "Meaning": "small change",
+    "VideoID": "IoT7kX40sLY",
+    "Sentence": "Our software developers are tweaking the program  "
+  },
+  {
+    "Word": "sheer",
+    "Meaning": "absolute",
+    "rate": 3,
+    "VideoID": "R5sFbIBY6Gc",
+    "Sentence": "The sheer force of the wind knocked me to the ground"
+  },
+  {
+    "Word": "Wreak",
+    "Meaning": "cause something bad happen",
+    "VideoID": "F-NDuwBoVng",
+    "Sentence": "Gangs have been wreaking mayhem in the city"
+  },
+  {
+    "Word": "Stemming",
+    "Meaning": "produce;",
+    "VideoID": "lLxpAWCTogc",
+    "Sentence": "Many of the university problems stem from rapid expansion"
+  },
+  {
+    "Word": "Prey",
+    "Meaning": "hunt;catch",
+    "Synonym": "seize",
+    "VideoID": "gNwTIrfy8zI",
+    "Sentence": "The seals are easy prey for sharks"
+  },
+  {
+    "Word": "Exploitative",
+    "Meaning": "misuse; to use something that benefit you; unfair advantage for personal gain",
+    "rate": 3,
+    "Sentence": "The exploitation of migrant workers;Students who exploit available resource, such as online courses and libraries, are more likely to achieve academic success"
+  },
+  {
+    "Word": "Cripple",
+    "Meaning": "injure;break",
+    "VideoID": "-Dugcv-Ytls",
+    "Sentence": "Developing countries are crippled by their debts"
+  },
+  {
+    "Word": "peer(n)(v)",
+    "Meaning": "Person as the same age",
+    "VideoID": "rSkCfuVFGyM",
+    "Sentence": "The towers peer over the roofs; Teenagers spending time with their peers"
+  },
+  {
+    "Word": "Esteem",
+    "Meaning": "respect",
+    "rate": 3,
+    "Sentence": "Many of these qualities are esteemed by managers"
+  },
+  {
+    "Word": "Inundate",
+    "Meaning": "overflow",
+    "rate": 2,
+    "Sentence": "We have been inundated with complaints from listeners"
+  },
+  {
+    "Word": "Insular",
+    "Meaning": "narrow minded",
+    "VideoID": "LT5IZ2iAUmQ",
+    "Sentence": "Insular attitudes toward foreigners"
+  },
+  {
+    "Word": "Plummet",
+    "Meaning": "fall",
+    "Synonym": "topple;pitch",
+    "rate": 2,
+    "VideoID": "DJ9LbSWPIjc",
+    "Sentence": "A climber was killed when he plummeted 300 feet down an icy gully;Hardware sales plummeted"
+  },
+  {
+    "Word": "Lure",
+    "Meaning": "attraction",
+    "Sentence": "The film industry always has been a glamorous lure for young girls"
+  },
+  {
+    "Word": "Prior",
+    "Meaning": "previous time",
+    "Sentence": "She visited me on the day prior to her death;He has a prior engagement this evening"
+  },
+  {
+    "Word": "reckon",
+    "Meaning": "consider;calculate",
+    "VideoID": "wC2pbwa9zz4",
+    "Sentence": "The event was reckoned a failure;I don’t reckon his chances"
+  },
+  { "Word": "drench", "Meaning": "wet thoroughly", "VideoID": "o5TOE8EtNWI" },
+  {
+    "Word": "Expatriate",
+    "Meaning": "person reside outside their country for citizenship"
+  },
+  { "Word": "Depict", "Meaning": "potray", "Synonym": "delineate" },
+  {
+    "Word": "Sentence",
+    "Meaning": "punishment given by the court",
+    "Sentence": "The judge sentenced him to prison;He is serving a 10 years sentence  for armed robbery"
+  },
+  {
+    "Word": "Elicit",
+    "Meaning": "to get(response, information) from someone",
+    "Sentence": "She has been unable to elicit much sympathy from the public;My question elicit no response"
+  },
+  {
+    "Word": "Illicit",
+    "Meaning": "illegal or unlawful",
+    "Sentence": "He was arrested for selling illicit copies of the software"
+  },
+  {
+    "Word": "Frail",
+    "Meaning": "very weak",
+    "Synonym": "feeble",
+    "rate": 4,
+    "Sentence": "I could barely hear her frail voice; in his old age his health became increasingly frail;Environmental changes have left the once-thriving ecosystem frail and vulnerable to extinction;The government’s feeble efforts to combat climate change have been criticized for lacking urgency and effectiveness"
+  },
+  {
+    "Word": "Pugnacious",
+    "similarWord": 575,
+    "Meaning": "desire to fight or argue",
+    "Sentence": "There’s one pugnacious member on the committee who won’t agree to anything"
+  },
+  {
+    "Word": "Repugnant",
+    "Meaning": "strongly dislike",
+    "Sentence": "The idea was completely repugnant to us"
+  },
+  { "Word": "Of late", "Meaning": "recently" },
+  {
+    "Word": "Emulate",
+    "Meaning": "to try to be like (someone)",
+    "rate": 3,
+    "Sentence": "she grew up emulating her sports heroes"
+  },
+  {
+    "Word": "Rigorous",
+    "Meaning": "done carefully",
+    "Synonym": "deliberate",
+    "Sentence": "We subjected the data to a rigorous analysis;A deliberate approach to education reform is necessary to address the needs of diverse learners;it is important for individuals to to deliberate carefully before making major life dicisions"
+  },
+  {
+    "Word": "Landfall",
+    "Meaning": "the land first seen after a long journey",
+    "Sentence": "They made landfall on the 5th day of their journey"
+  },
+  {
+    "Word": "Tumble",
+    "Meaning": "fall down suddenly",
+    "rate": 3,
+    "VideoID": "4lQsIZd5tZ8",
+    "Sentence": "Intel has axed 15000 jobs after sales tumbled"
+  },
+  {
+    "Word": "Amid",
+    "Meaning": "during something or in the middle of something"
+  },
+  {
+    "Word": "Evacuate",
+    "Meaning": "to remove from dangerous place",
+    "Sentence": "During world war 2, children were evacuated from London to the country"
+  },
+  {
+    "Word": "Cantankerous",
+    "Meaning": "often angry",
+    "rate": 3,
+    "Sentence": "A cantankerous old man"
+  },
+  {
+    "Word": "Downright",
+    "Meaning": "completely or totally or direct",
+    "Synonym": "outright; radically",
+    "rate": 3,
+    "Sentence": "The movie was downright stupid"
+  },
+  {
+    "Word": "Plucky",
+    "Meaning": "brave",
+    "Synonym": "valiant",
+    "Sentence": "A plucky young boy"
+  },
+  {
+    "Word": "Unflappable",
+    "Meaning": "calm in difficult situation",
+    "Synonym": "sedate",
+    "Sentence": "he has a reputation for being unflappable"
+  },
+  {
+    "Word": "Verbose",
+    "Meaning": "uses too many words",
+    "Sentence": "She has a verbose writing style"
+  },
+  { "Word": "Hapless", "Meaning": "unlucky" },
+  {
+    "Word": "Ambivalent",
+    "similarWord": 91,
+    "Meaning": "having or showing mixed filling(someone feels)",
+    "Sentence": "he felt ambivalent about his job;I feel ambivalent about accepting the job offer because it pays well, but the work is not interesting"
+  },
+  {
+    "Word": "Derogatory",
+    "Meaning": "low opinion;showing lack of respect",
+    "Synonym": "flippancy",
+    "rate": 3,
+    "Sentence": "The newspaper received complaints about a derogatory article they published about a minority group"
+  },
+  {
+    "Word": "Esoteric",
+    "Meaning": "understand by members of a special group",
+    "rate": 3,
+    "Sentence": "The lecture on quantum mechanics was esoteric and difficult for most students to understand"
+  },
+  {
+    "Word": "Histrionic",
+    "Meaning": "melodramatic in character or style",
+    "Sentence": "Their histrionic speech around clean energy failed to persuade the audience at the climate change rally"
+  },
+  {
+    "Word": "Pernicious",
+    "Meaning": "having an harmful effect",
+    "Sentence": "The companies pernicious practices harmed the local environment"
+  },
+  {
+    "Word": "Quixotic",
+    "Meaning": "unrealistic and impractical",
+    "rate": 2,
+    "Sentence": "His quixotic dream of travelling the world with no money seemed impossible to achieve"
+  },
+  {
+    "Word": "Ubiquitous",
+    "Meaning": "very common and found everywhere",
+    "Synonym": "Pervasive; omnipresent",
+    "rate": 2,
+    "Sentence": "Smartphones have become ubiquitous in modern society; Plastic pollution has become so pervasive that microplastics are found in human bloodstreams"
+  },
+  {
+    "Word": "Vicarious",
+    "Meaning": "experience the feeling of another person",
+    "Sentence": "I am living vicariously through you(I am living through your experiences)"
+  },
+  {
+    "Word": "Paramount",
+    "Meaning": "of highest rank or importance",
+    "Sentence": "Unemployment was the paramount issue in the election;Reducing carbon emission is of paramount importance in order to combat climate change"
+  },
+  {
+    "Word": "Trifling",
+    "Meaning": "having little value or important (negatively use)",
+    "rate": 2,
+    "Sentence": "Choosing a university is no trifling matter for young people"
+  },
+  {
+    "Word": "Dreadful",
+    "Meaning": "very unpleasant",
+    "Sentence": "I think it is dreadful how people treat animals sometimes"
+  },
+  {
+    "Word": "Quaint",
+    "Meaning": "unusual quality or appearance that is usually attractive",
+    "Sentence": "I live in a quaint village in the west part of the country"
+  },
+  {
+    "Word": "Hideous",
+    "Meaning": "very ugly; frightening",
+    "Synonym": "formidable",
+    "rate": 2,
+    "Sentence": "The room was fill with hideous furniture"
+  },
+  {
+    "Word": "Baffle",
+    "similarWord": 564,
+    "Meaning": "to confuse completely",
+    "Synonym": "bewilder; perplex",
+    "Sentence": "It is baffling that some people believe the earth is flat"
+  },
+  {
+    "Word": "Sizeable",
+    "Meaning": "large",
+    "Sentence": "Costs have increased sizably"
+  },
+  {
+    "Word": "Paltry",
+    "Meaning": "very small or too small amount",
+    "Sentence": "Nurses are paid a paltry salary considering how hard they work"
+  },
+  {
+    "Word": "Astonishingly",
+    "Meaning": "very surprise",
+    "Sentence": "Astonishingly, some people don’t like studying English"
+  },
+  {
+    "Word": "Awfully",
+    "Meaning": "very bad or extremely",
+    "Synonym": "Abysmal",
+    "Sentence": "That is awfully nice of you; He sings awfully; Despite significant funding, the abysmal literacy rates in some developing countries highlight systemic failures in educational infrastructure"
+  },
+  {
+    "Word": "Blissfully",
+    "Meaning": "completely happy",
+    "Synonym": "exhilaration",
+    "Sentence": "In February last year, we were blissfully unaware that the world was able to change"
+  },
+  {
+    "Word": "Utterly",
+    "Meaning": "total or complete",
+    "rate": 3,
+    "Sentence": "I was utterly convinced that she was wrong"
+  },
+  {
+    "Word": "Deceptive",
+    "Meaning": "misleadingly",
+    "Synonym": "illusive",
+    "Sentence": "The speaking part of the exam is deceptively(=seen easy but actually difficult) difficult"
+  },
+  {
+    "Word": "Willfully",
+    "Meaning": "intentionally",
+    "Sentence": "He willfully ignore the restrictions"
+  },
+  {
+    "Word": "Mount",
+    "Meaning": "to increase in amount",
+    "Sentence": "The pressure mounted as the crisis continued"
+  },
+  {
+    "Word": "Reminiscence",
+    "Meaning": "act that tell or remember about the past;remember something",
+    "Sentence": "I listened to my grandmother’s reminiscence of her childhood"
+  },
+  {
+    "Word": "Commencement",
+    "similarWord": 352,
+    "Meaning": "the time when something begin",
+    "Synonym": "inaugurated(official)",
+    "Sentence": "It is the first attempt at peace since the commencement of hostilities"
+  },
+  {
+    "Word": "Inadvertent",
+    "Meaning": "not intended or planned",
+    "Sentence": "an inadvertent error; I inadvertently dialed the wrong number"
+  },
+  {
+    "Word": "Improvise",
+    "Meaning": "perform without preparation",
+    "Sentence": "He had to improvise his opening speech when he forgot his notes"
+  },
+  {
+    "Word": "Retrospect",
+    "Meaning": "thinking about the past or something that happen in the past",
+    "Sentence": "In retrospect, I made the right decision"
+  },
+  {
+    "Word": "Ditch",
+    "Meaning": "to stop having or using; to get rid of",
+    "Sentence": "He got ditched by his girlfriend; We have ditched plans to open a cafe together"
+  },
+  {
+    "Word": "Entail",
+    "Meaning": "involve or require as a necessary part or consequence",
+    "Sentence": "The procedure does entail [=carry] certain risks; Solving environment problems entails stricter government regulations"
+  },
+  {
+    "Word": "Content(v)(adj)",
+    "similarWord": "617;621",
+    "Meaning": "the state of being happy and satisfied",
+    "rate": 3,
+    "Sentence": "He believe that people can find peace and contentment in living simply"
+  },
+  {
+    "Word": "Contend",
+    "Meaning": "Hold or claim",
+    "Sentence": "He contends that the judge was wrong"
+  },
+  {
+    "Word": "Acquaint",
+    "Meaning": "to introduce",
+    "Sentence": "He acquainted[=told her] the new employee with her duties"
+  },
+  {
+    "Word": "Vicissitude",
+    "Meaning": "ups and downs; fluctuations",
+    "Sentence": "The vicissitudes of technological progress bring both opportunities and risks"
+  },
+  {
+    "Word": "Exile",
+    "Meaning": "situation in which you are force to leave your country or home",
+    "Sentence": "He now lives in exile in the United State"
+  },
+  {
+    "Word": "Fragile",
+    "Meaning": "easily broken or damaged",
+    "Synonym": "brittle",
+    "rate": 3,
+    "Sentence": "Her health has always been very fragile"
+  },
+  {
+    "Word": "Courteous",
+    "Meaning": "polite behavior",
+    "Sentence": "They treated us with courtesy and kindness"
+  },
+  { "Word": "Execute", "Meaning": "to kill especially as punishment" },
+  {
+    "Word": "Venture",
+    "Meaning": "to go somewhere that is dangerous",
+    "Sentence": "We ventured out into the woods"
+  },
+  {
+    "Word": "Rampant",
+    "similarWord": 697,
+    "Meaning": "very common and spread quickly",
+    "Sentence": "Rumors of her engagement were rampant"
+  },
+  {
+    "Word": "Viable",
+    "Meaning": "able to work or succeed",
+    "Sentence": "The project is not a viable option without more funding; viable option/alternative"
+  },
+  {
+    "Word": "Prime",
+    "Meaning": "most important",
+    "Sentence": "Prime advantage/Prime disadvantage/prime solution/ prime reasons; the prime disadvantage is that these companies use the natural resources of developing nations recklessly, which affects the environment"
+  },
+  {
+    "Word": "Prone",
+    "Meaning": "likely to do",
+    "Synonym": "inclined;susceptible;fallible(tendency to mistake)",
+    "rate": 3,
+    "Sentence": "Children are prone to making mistakes when they are learning;Thus, people that have a diet based on plants and seeds are more prone to have a healthier life because they allow their bodies to focus their energy in its normal processes"
+  },
+  { "Word": "Aversion", "Meaning": "dislike" },
+  {
+    "Word": "indigenous(adj)",
+    "similarWord": "528;377",
+    "Meaning": "local",
+    "Sentence": "an indigenous culture or language; There are several indigenous group that still live in that area"
+  },
+  {
+    "Word": "indigent(adj)",
+    "Meaning": "extremely poor",
+    "Sentence": "The charity organization provides free meals and medical care to indigent families in the community"
+  },
+  {
+    "Word": "Erupt",
+    "Meaning": "to happen suddenly and violently",
+    "Sentence": "War could erupt[=break out] in that part of the world at any time"
+  },
+  {
+    "Word": "Embrace",
+    "Meaning": "to accept gladly",
+    "Sentence": "These idea have been embraced by the scientific community; to embrace a common belief"
+  },
+  {
+    "Word": "stagnate",
+    "Meaning": "to stop developing",
+    "Sentence": "their relationship is stagnating"
+  },
+  {
+    "Word": "Retain",
+    "Meaning": "to keep in position",
+    "Sentence": "They insisted on retaining old customs"
+  },
+  {
+    "Word": "Oligarchy",
+    "Meaning": "country control by small group of people"
+  },
+  {
+    "Word": "Accountable",
+    "Meaning": "responsible for something",
+    "Sentence": "Each children is accountable for his or her own behavior"
+  },
+  {
+    "Word": "Scrutiny",
+    "Meaning": "carefully examine",
+    "rate": 3,
+    "Sentence": "her opinion is based on a careful scrutiny of the text"
+  },
+  {
+    "Word": "unprecedented",
+    "Meaning": "not done or experienced before",
+    "rate": 2,
+    "Sentence": "An unprecedented number of students are taking the class"
+  },
+  {
+    "Word": "Sinister",
+    "Meaning": "looking like harmful or dangerous",
+    "Synonym": "baleful;ominous",
+    "rate": 2,
+    "Sentence": "There was something sinister about him;The ominous potential of AI replacing human jobs worries many"
+  },
+  {
+    "Word": "Equitable",
+    "Meaning": "dealing fairly and equally with everyone",
+    "rate": 3,
+    "Sentence": "Fighting for a more equitable distribution of funds"
+  },
+  {
+    "Word": "Notorious",
+    "Meaning": "bad reputation;well known and famous for something bad",
+    "Sentence": "The weather is notoriously difficult to predict"
+  },
+  {
+    "Word": "Extinct",
+    "Meaning": "no longer exist",
+    "rate": 4,
+    "Sentence": "Many of these old traditions have since become extinct"
+  },
+  {
+    "Word": "exquisite",
+    "Meaning": "very beautiful",
+    "Sentence": "Her singing voice is truly exquisite"
+  },
+  {
+    "Word": "Antiquated",
+    "similarWord": "587;643",
+    "Meaning": "very old and no longer use",
+    "Sentence": "Antiquated beliefs often hinder societal progress"
+  },
+  {
+    "Word": "Lethargic",
+    "Meaning": "very slow",
+    "Sentence": "A lethargic economy requires strong policies to stimulate growth"
+  },
+  {
+    "Word": "Deafening",
+    "Meaning": "very loud",
+    "Sentence": "deafening noise"
+  },
+  {
+    "Word": "Despondent",
+    "Meaning": "hopeless",
+    "Synonym": "downcast",
+    "rate": 3,
+    "Sentence": "he felt despondent after repeatedly failing"
+  },
+  {
+    "Word": "Relentless",
+    "Meaning": "determined; continuous without break",
+    "rate": 2
+  },
+  {
+    "Word": "Appease",
+    "similarWord": "144;414",
+    "Meaning": "to make pleasure or less angry",
+    "Synonym": "placate; conciliate",
+    "rate": 3,
+    "Sentence": "Efforts to appease the angry protesters were unsuccessful"
+  },
+  {
+    "Word": "Petrified",
+    "Meaning": "frighten",
+    "Sentence": "The documentary on natural disasters left me feeling utterly petrified of the future calamities  "
+  },
+  {
+    "Word": "Hilarious",
+    "Meaning": "very funny",
+    "Sentence": "she gave us a hilarious account of her first day as a teacher"
+  },
+  {
+    "Word": "Pivot",
+    "Meaning": "to be based on",
+    "Sentence": "Our vacation plans will pivot around how much money we can save"
+  },
+  { "Word": "Soar", "Meaning": "raise high" },
+  { "Word": "Playful", "Meaning": "jolly" },
+  {
+    "Word": "Mandate",
+    "Meaning": "the official order",
+    "Sentence": "They carried out the governor’s mandate to build more roads"
+  },
+  {
+    "Word": "Cascading effect",
+    "Meaning": "a chain of event that where one event impact other"
+  },
+  {
+    "Word": "Promulgate",
+    "Meaning": "to make known officially",
+    "rate": 4,
+    "Sentence": "Her ideas have been widely promulgated on the internet   "
+  },
+  {
+    "Word": "Tangible",
+    "similarWord": 166,
+    "Meaning": "easily see and recognize",
+    "rate": 3,
+    "Sentence": "There is no tangible evidence to support her claim"
+  },
+  {
+    "Word": "Pledge",
+    "Meaning": "Serious promise",
+    "Sentence": "She refused to take a pledge of silence[=she said she wouldn’t promise to stay silent]"
+  },
+  {
+    "Word": "Ample",
+    "Meaning": "having enough or more than enough",
+    "Synonym": "suffice",
+    "Sentence": "The police found ample evidence of wrongdoing"
+  },
+  {
+    "Word": "Ecstatic",
+    "Meaning": "very happy and excited",
+    "Sentence": "She was ecstatic when she heard that she was going to be a mother"
+  },
+  {
+    "Word": "Somber",
+    "Meaning": "very sad",
+    "Sentence": "Her health put us in a somber mood"
+  },
+  { "Word": "cognitive", "Meaning": "mental activity" },
+  {
+    "Word": "Expedite",
+    "Meaning": "To cause to happen faster",
+    "rate": 5,
+    "Sentence": "We will do what we can to expedite the processing of your insurance claim"
+  },
+  {
+    "Word": "Venerate",
+    "Meaning": "feel or show deep respect",
+    "Sentence": "A writer venerated by generations of admirers  "
+  },
+  {
+    "Word": "bewilder",
+    "Meaning": "confused",
+    "Synonym": "perplex; muddled",
+    "rate": 2,
+    "Sentence": "He had a bewildered expression on his face"
+  },
+  {
+    "Word": "imprudent",
+    "Meaning": "not prudent; not wise",
+    "Sentence": "he made some imprudent investments that she would late regret"
+  },
+  {
+    "Word": "dearth",
+    "similarWord": 567,
+    "Meaning": "lack of something",
+    "Sentence": "The dearth[=scarcity] of jobs in the city forced many families to leave the area"
+  },
+  {
+    "Word": "unearth",
+    "Meaning": "discover or reveal something hidden",
+    "Sentence": "After years of research, scientists unearthed new evidence about the disease"
+  },
+  {
+    "Word": "diatribe",
+    "Meaning": "an angry and usually long speech",
+    "Sentence": "The article is a diatribe against mainstream media"
+  },
+  {
+    "Word": "Sanguine",
+    "Meaning": "confident and hopeful",
+    "Synonym": "optimism",
+    "rate": 3,
+    "Sentence": "He is sanguine about the company’s future"
+  },
+  {
+    "Word": "Lugubrious",
+    "Meaning": "full of sadness",
+    "rate": 4,
+    "Sentence": "A comic actor known for his lugubrious manner"
+  },
+  {
+    "Word": "Woe",
+    "Meaning": "problem/sadness",
+    "Sentence": "The city’s traffic woes are well known"
+  },
+  {
+    "Word": "Resurgence",
+    "Meaning": "growth or increase that occurs after a period",
+    "Sentence": "There has been some resurgence in economic activity recently"
+  },
+  {
+    "Word": "panacea",
+    "Meaning": "something that will make everything",
+    "Sentence": "The low will improve the lives of local farmers, but it is no panacea"
+  },
+  {
+    "Word": "Blatant",
+    "Meaning": "very obvious or lack of subtlety",
+    "rate": 2,
+    "Sentence": "Despite their blatant attraction to each other they try to stay just friends"
+  },
+  {
+    "Word": "Anathema",
+    "Meaning": "strongly dislike",
+    "Synonym": "repugnant",
+    "rate": 4,
+    "Sentence": "Idea that are anathema to me[=idea that I strongly dislike]"
+  },
+  {
+    "Word": "Evade",
+    "Meaning": "escape or avoid",
+    "Synonym": "elude; shun",
+    "rate": 3,
+    "Sentence": "His criminal activities somehow evaded detection[=were not detected]"
+  },
+  {
+    "Word": "Court",
+    "Meaning": "give lot of attention and favor",
+    "Sentence": "The government is courting investors from around the globe"
+  },
+  {
+    "Word": "Umbrage",
+    "Meaning": "offend",
+    "Sentence": "I imagine some people will take umbrage[=will be offended] when they hear the quote"
+  },
+  {
+    "Word": "Antedate",
+    "Meaning": "come before (something) in date",
+    "Sentence": "A civilization that antedate the roman empire"
+  },
+  {
+    "Word": "De facto",
+    "Meaning": "in reality or actual",
+    "Sentence": "The country was de facto divided between two states"
+  },
+  {
+    "Word": "Audacious",
+    "Meaning": "very bold",
+    "Synonym": "effrontery",
+    "Sentence": "She made a audacious decision to quit her job"
+  },
+  {
+    "Word": "Potent",
+    "Meaning": "very powerful effect",
+    "Sentence": "The story serves as a potent reminder of the danger of drug use"
+  },
+  { "Word": "Freak", "Meaning": "very strength and unusual" },
+  {
+    "Word": "Duplicity",
+    "Meaning": "dishonest behavior",
+    "Synonym": "deceptive",
+    "Sentence": "duplicitous tactics"
+  },
+  {
+    "Word": "Pander",
+    "Meaning": "to gratify[=please or satisfy] or exploit[=utilize] someone’s weaknesses, desires",
+    "Synonym": "gratify; indulge[=engage excessively in]",
+    "Sentence": "X pander to Y [by doing Z] ;Politicians often pander to voters by promising unrealistic benefits"
+  },
+  {
+    "Word": "Insinuate",
+    "Meaning": "suggest or hint in an indirect way",
+    "Sentence": "he was insinuating that I had no self-confident"
+  },
+  { "Word": "Dead horse", "Meaning": "something that is no longer useful" },
+  { "Word": "Drift", "Meaning": " a slow and gradual movement" },
+  {
+    "Word": "Invade",
+    "Meaning": "to enter in order to take control",
+    "Sentence": "Tourists invaded the town"
+  },
+  {
+    "Word": "Veteran",
+    "similarWord": 590,
+    "Meaning": "person who is lot of experience in a particular field(+)",
+    "rate": 2,
+    "Sentence": "A veteran politician; a veteran police officers"
+  },
+  {
+    "Word": "Inveterate",
+    "Meaning": "a long established habit(-)",
+    "Sentence": "An inveterate smoker"
+  },
+  {
+    "Word": "Amendment",
+    "Meaning": "change in the word or meaning in the law",
+    "Sentence": "constitutional amendment"
+  },
+  {
+    "Word": "Alienate",
+    "Meaning": "to cause to feel isolated or disconnected",
+    "rate": 3,
+    "Sentence": "He alienated most of his colleagues with his bad temper; his rude behavior began to alienate his friends and they stop inviting him to gathering"
+  },
+  {
+    "Word": "Prerogative",
+    "Meaning": "privilege",
+    "Synonym": "entitlement",
+    "Sentence": "Education was once only the prerogative of the wealth"
+  },
+  {
+    "Word": "Dismantle",
+    "Meaning": "destroy",
+    "rate": 3,
+    "Sentence": "The after school program was dismantled due to lack of funding"
+  },
+  {
+    "Word": "Captivate",
+    "Meaning": "to attract",
+    "Sentence": "The play has been captivating the audiences for years"
+  },
+  { "Word": "Quandary", "Meaning": "dilemma" },
+  { "Word": "Cult", "Meaning": "small religious group" },
+  {
+    "Word": "spare",
+    "Meaning": "extra or free time",
+    "Sentence": "He like to ski in his spare time"
+  },
+  { "Word": "Prodigy", "Meaning": "child genius", "rate": 3 },
+  { "Word": "Pupil", "Meaning": "student" },
+  { "Word": "Truant", "Meaning": "miss school without permission" },
+  { "Word": "vice", "Meaning": "immoral or wicked behavior" },
+  { "Word": "Prohibit", "Meaning": "prevent", "Synonym": "forbid" },
+  {
+    "Word": "Divulge",
+    "Meaning": "disclose; reveal",
+    "Sentence": "I don’t want to divulge my plans at the moment"
+  },
+  {
+    "Word": "Linger",
+    "Meaning": "wait or remain",
+    "Sentence": "He lingered in bed and missed breakfast"
+  },
+  {
+    "Word": "Asylum",
+    "Meaning": "The protection granted by an state",
+    "Sentence": "She asked for political asylum"
+  },
+  {
+    "Word": "Flawed",
+    "Meaning": "having a mistake",
+    "Sentence": "A flawed but decent man;The argument that economical growth alone can solve poverty is flawed as it ignore the unequal distribution of wealth and resource in society"
+  },
+  {
+    "Word": "Overture",
+    "Meaning": "introduction of something",
+    "Synonym": "prelude",
+    "Sentence": "The government has made a significant peace overture by opening the door to negotiation"
+  },
+  {
+    "Word": "Exodus",
+    "Meaning": "a mass departure of people",
+    "Sentence": "The war cause a mass exodus of refugees"
+  },
+  {
+    "Word": "Mayhem",
+    "Meaning": "the action that hurt people or destroy things",
+    "Sentence": "The criminal who escaped from prison and caused mayhem  "
+  },
+  { "Word": "Eternal", "Meaning": "endless" },
+  {
+    "Word": "Auspicious",
+    "Meaning": "promising; favorable",
+    "Synonym": "propitious",
+    "rate": 3,
+    "Sentence": "It was an auspicious time to open a new business;The rapid adoption of AI presents propitious opportunities for medical breakthroughs"
+  },
+  { "Word": "ripple effect", "Meaning": "continuing and spreading result" },
+  {
+    "Word": "Insurgency",
+    "Meaning": "a usual violent attempt to take control of a government",
+    "rate": 3,
+    "Sentence": "The insurgency has continued for three years"
+  },
+  {
+    "Word": "Curb",
+    "Meaning": "restraint",
+    "Sentence": "Many companies are protesting the new price curbs"
+  },
+  {
+    "Word": "Eradicate",
+    "Meaning": "to remove completely",
+    "Sentence": "His ambition is to eradicate poverty from his community"
+  },
+  {
+    "Word": "Commemorate",
+    "Meaning": "be done in order to remind people of",
+    "Sentence": "Each year on this date we commemorate our ancestors with a special ceremony"
+  },
+  { "Word": "assertive", "Meaning": "confident", "Synonym": "assured" },
+  {
+    "Word": "Veritable",
+    "Meaning": "true or real",
+    "Synonym": "bonafide; unfeigned",
+    "Sentence": "The island is a veritable paradise; Mentors who offer unfeigned support and guidance can significantly impact the personal and professional growth"
+  },
+  {
+    "Word": "Impenetrable",
+    "Meaning": "impossible to pass",
+    "Sentence": "An impenetrable wall"
+  },
+  {
+    "Word": "Resplendent",
+    "Meaning": "very bright and attractive",
+    "Synonym": "splendid;magnificent; vivid",
+    "Sentence": "a bird with resplendent yellow feathers; the fields were resplendent with flowers"
+  },
+  {
+    "Word": "Radicalism",
+    "Meaning": "extreme and fundamental  changes( challenging established norms)",
+    "Sentence": "The civil rights movement was fueled by a form of social radicalism that sought to dismantle systemic racism and inequality"
+  },
+  {
+    "Word": "hasten",
+    "Meaning": "to cause to happen more quickly",
+    "Sentence": "The factory was built, hastening [=accelerating] the town’s growth"
+  },
+  {
+    "Word": "Deter",
+    "Meaning": "stop or prevent from happening",
+    "rate": 2,
+    "Sentence": "He played an important role in international efforts to deter[=prevent] nuclear war"
+  },
+  {
+    "Word": "Contempt",
+    "Meaning": "lack of respect",
+    "Synonym": "Derision;scurvy(adj); Scorn",
+    "rate": 3,
+    "Sentence": "He spoke with contempt in his voice"
+  },
+  {
+    "Word": "Invincible",
+    "Meaning": "impossible to defeat; impossible to attack",
+    "Synonym": "unassailable",
+    "rate": 3,
+    "Sentence": "Her logic was so clear and well-researched that her position in the debate was unassailable"
+  },
+  {
+    "Word": "Benevolent",
+    "Meaning": "kinds and generous",
+    "Sentence": "A benevolent government"
+  },
+  {
+    "Word": "Deterrent",
+    "Meaning": "make someone decide not to do something",
+    "Synonym": "preventative",
+    "rate": 2,
+    "Sentence": "They hope that the new law will be a deterrent against false advertising"
+  },
+  {
+    "Word": "Condolence",
+    "Meaning": "expression of sympathy when someone is suffering"
+  },
+  {
+    "Word": "Augmented",
+    "Meaning": "to increase the size or amount",
+    "Sentence": "Job training will augment[=supplement] the class work;To stay competitive, many business have augmented their online presence with e-commerce platforms and digital marketing strategies  "
+  },
+  { "Word": "Indeed", "Meaning": "in fact" },
+  {
+    "Word": "Mull",
+    "Meaning": "To think deeply",
+    "Synonym": "ponder",
+    "Sentence": "She needed some time to mull over the job offer before making a decision"
+  },
+  { "Word": "Ponderous", "Meaning": "heavy, slow, dull" },
+  {
+    "Word": "Bizarre",
+    "Meaning": "strange",
+    "Sentence": "The government's decision to print excessive currency without backing it with economic growth is a bizarre approach that could lead to hyperinflation"
+  },
+  {
+    "Word": "Panorama",
+    "Meaning": "a full and wide view of something",
+    "Synonym": "scenic; picturesque",
+    "rate": 3,
+    "Sentence": "You can see a panorama of the entire bay from here; the book presents a panorama of immigration in America; We took a drive along the scenic route to enjoy the beautiful countryside  "
+  },
+  {
+    "Word": "Sovereign",
+    "Meaning": "supreme; unlimited;absolute",
+    "Sentence": "The government’s sovereign duty is to protect the right of its citizens"
+  },
+  {
+    "Word": "incoherent",
+    "Meaning": "unclear",
+    "Synonym": "nebulous; vague; faint",
+    "rate": 3,
+    "Sentence": "He was very upset and practically incoherent after the accident"
+  },
+  {
+    "Word": "Obliterate",
+    "Meaning": "destroy",
+    "Sentence": "The tide eventually obliterated all evidence of our sand castles"
+  },
+  {
+    "Word": "Persuade",
+    "Meaning": "convince someone to do something",
+    "Sentence": "She try to persuade her friend to join the hicking"
+  },
+  { "Word": "Downsize", "Meaning": "reduce in number or size" },
+  { "Word": "Repatriate", "Meaning": "send back to their own country" },
+  {
+    "Word": "Obsolete",
+    "Meaning": "no longer used",
+    "Sentence": "The system was made obsolete by their invention"
+  },
+  {
+    "Word": "Abstinence",
+    "Meaning": "to practice of not doing or having something",
+    "Sentence": "abstinence from alcohol"
+  },
+  {
+    "Word": "Itinerary",
+    "Meaning": "detail plan of a trip or journey",
+    "Sentence": "Although some people prefer spontaneous travel, having an itinerary can prevent unnecessary delay and ensure a smooth experience; The itinerary was carefully designed to include a balance of cultural and recreational activities."
+  },
+  {
+    "Word": "Endeavor",
+    "Meaning": "to try hard to achieve something",
+    "Sentence": "The school endeavors to teach student to be good citizen; her endeavor to climb mount everest was successful"
+  },
+  { "Word": "Blasphemy", "Meaning": "lack of reverence for god" },
+  {
+    "Word": "Contentious",
+    "similarWord": 621,
+    "Meaning": "controversial",
+    "rate": 3,
+    "Sentence": "A contentious issue might be a highly debated topic like politics or religion"
+  },
+  {
+    "Word": "Leverage",
+    "Meaning": "effective use of resource",
+    "rate": 3,
+    "Sentence": "Business often leverage social media platforms to reach a wider audience and enhance their brand visibility"
+  },
+  {
+    "Word": "Concession",
+    "Meaning": "compromise",
+    "Sentence": "While the economic development is crucial, governments must make concession to ensure environmental sustainability, such as stricter regulation on industrial pollution"
+  },
+  {
+    "Word": "Assassination",
+    "Meaning": "deliberately killing a prominent or important person",
+    "Sentence": "The assassination of a political leader can lead to widespread chaos and instability"
+  },
+  {
+    "Word": "wipe out",
+    "Meaning": "eliminate completely",
+    "Sentence": "Deforestation is wiping out countless species, leading to a loss of biodiversity that could have irreversible consequences for the planet"
+  },
+  {
+    "Word": "Manifest",
+    "Meaning": "showing clear or evidence",
+    "Sentence": "The effect of climate change are increasingly manifesting in the form of extreme weather events"
+  },
+  {
+    "Word": "Boisterous",
+    "Meaning": "noisy, energetic, cheerful  ",
+    "Synonym": "rowdy",
+    "rate": 3,
+    "Sentence": "Some people argue that boisterous behavior in children is a sign of creativity and high energy, while other believe it reflects a lack of discipline and proper upbringing  "
+  },
+  {
+    "Word": "Consent",
+    "similarWord": 704,
+    "Meaning": "to give permission",
+    "Sentence": "Her father consented to the marriage"
+  },
+  {
+    "Word": "Curb",
+    "Meaning": "reducing or preventing negative behavior",
+    "Sentence": "Increasing police presence in high-crime neighborhoods is one strategy to curb criminal activities but it must be accompanied by community programs to address the root causes of crime"
+  },
+  {
+    "Word": "Grotesque",
+    "Meaning": "extremely different; very strange",
+    "Synonym": "bizarre; distorted",
+    "Sentence": "The grotesque sight of oceans filled with plastic waste highlight the urgent need for global action to address pollution and protect marine life"
+  },
+  {
+    "Word": "Oversight",
+    "Meaning": "failure or responsibility of monitoring",
+    "Sentence": "Effective oversight of industrial activities is crucial to ensure that companies comply with environmental regulations"
+  },
+  {
+    "Word": "cease",
+    "Meaning": "bring something to an end",
+    "Sentence": "Government must take immediate action to ensure that companies cease harmful practices, such as deforestation and excessive carbon emission, to protect the plant"
+  },
+  { "Word": "beholder", "Meaning": "the person who observe" },
+  { "Word": "Colored", "Meaning": "influence by" },
+  {
+    "Word": "Disquiet",
+    "Meaning": "worry; anxiety",
+    "Sentence": "The raising unemployment rate has created a sense of disquiet in society, as many families struggle to meet their basic needs"
+  },
+  {
+    "Word": "Enamored",
+    "Meaning": "filled with love; admiration",
+    "rate": 3,
+    "Sentence": "Students who are enamored with a particular subject such as science or literature, tend to perform better in those areas because of their passion and dedication"
+  },
+  { "Word": "Reconnaissance", "Meaning": "preliminary research", "rate": 3 },
+  {
+    "Word": "mere",
+    "Meaning": "only; lack of importance",
+    "Sentence": "She was a mere child when she started performing"
+  },
+  {
+    "Word": "Amateur",
+    "Meaning": "engage in a particular activity such as sport, art or hobby for pleasure or interest rather than profession",
+    "Synonym": "dilettante",
+    "Sentence": "While professionals bring a high level of skill to sports, amateurs also contribute by fostering a sense of community and passion for the game"
+  },
+  {
+    "Word": "Connoisseur",
+    "Meaning": "who has expert knowledge especially in art, food and drink"
+  },
+  {
+    "Word": "Furtive",
+    "Meaning": "done in a quiet and secret way to avoid being notice",
+    "Sentence": "She cast[=emit] a furtive glance in our direction"
+  },
+  {
+    "Word": "Futile",
+    "Meaning": "pointless or useless",
+    "Sentence": "All our efforts proved futile; They made a futile attempt to control the flooding"
+  },
+  {
+    "Word": "Sporadic",
+    "Meaning": "irregularly",
+    "rate": 3,
+    "Sentence": "The region experienced sporadic rainfall throughout the year, making farming difficult"
+  },
+  {
+    "Word": "Altruism",
+    "Meaning": "feeling and behavior that show a desire to help other people",
+    "Synonym": "selflessness[=   পরার্থপরতা  ]",
+    "rate": 3
+  },
+  {
+    "Word": "Termed",
+    "Meaning": "assigning a specific name or label",
+    "Sentence": "Her unique approach to problem solving has been termed revolutionary by her peers"
+  },
+  {
+    "Word": "Irrevocable",
+    "Meaning": "something that can not be changed",
+    "Sentence": "Signing the contact was an irrevocable decision, there was no way to cancel it afterward"
+  },
+  {
+    "Word": "Indefensible",
+    "Meaning": "can not be support or justify",
+    "Sentence": "the company’s decision to dump waste into the river was morally indefensible"
+  },
+  {
+    "Word": "Devious",
+    "Meaning": "dishonest or misleading;Willing to lie and trick people in order to get what is wanted",
+    "Sentence": "The company was accused of using devious method to get the contract"
+  },
+  {
+    "Word": "Invigorate",
+    "Meaning": "to give strength, energy to someone or something;refreshing",
+    "rate": 3,
+    "Sentence": "The new policy aims to invigorate the economy"
+  },
+  {
+    "Word": "Scenic",
+    "Meaning": "beautiful view of natural scenery",
+    "Sentence": "The scenic beauty of the countryside"
+  },
+  {
+    "Word": "Stray",
+    "Meaning": "to go in a direction that is away from a group",
+    "Sentence": "She strayed from the group and got lost"
+  },
+  {
+    "Word": "Digress",
+    "Meaning": "Shift away from the main point",
+    "Sentence": "Her essay was interesting but somewhat digressive, as it included many tangents unrelated to the central argument"
+  },
+  { "Word": "Artisan", "Meaning": "craftman" },
+  {
+    "Word": "Reprehensible",
+    "Meaning": "deserving of strong criticism, blame; very bad",
+    "rate": 2,
+    "Sentence": "the company’s decision to dump waste into the river was reprehensible and caused widespread outrage"
+  },
+  {
+    "Word": "Ascetic",
+    "Meaning": "simple way of living",
+    "Sentence": "an ascetic monk"
+  },
+  {
+    "Word": "Pedant",
+    "similarWord": 719,
+    "Meaning": "give too much attention to minor detail",
+    "Sentence": "The professor was so pedantic that he spent an entire lecture debating the use of a sigle comma in a historical document"
+  },
+  {
+    "Word": "Philistine",
+    "Meaning": "person who does not understand the art and culture"
+  },
+  {
+    "Word": "Paragon",
+    "Meaning": "a person or thing that is perfect",
+    "Sentence": "She was considered a paragon of integrity, always doing the right thing even when it was difficult"
+  },
+  {
+    "Word": "Aesthetic",
+    "Meaning": "relating to art and beauty",
+    "rate": 3,
+    "Sentence": "There are practical as well as aesthetic reasons for planting trees"
+  },
+  {
+    "Word": "Indictment",
+    "Meaning": "a official written statement for charging a person with a crime"
+  },
+  {
+    "Word": "Ostracize",
+    "similarWord": 800,
+    "Meaning": "to exclude from a group",
+    "Sentence": "The other girls ostracized her because of the way she dressed"
+  },
+  {
+    "Word": "desecrate",
+    "Meaning": "violate its sanctity",
+    "Sentence": "The act of burning the flag was seen as an attempt to desecrate national symbol"
+  },
+  {
+    "Word": "Colloquial",
+    "Meaning": "refer to language used in ordinary rather in formal writing or speech",
+    "Sentence": "The author’s use of colloquial language made the dialogue feel natural and reliable"
+  },
+  {
+    "Word": "Zealot",
+    "Meaning": "fanatically[=extremely] devoted to a belief or ideology",
+    "rate": 2,
+    "Sentence": "He was a zealot for environmental conservation, dedicating his life to protecting endangered species  "
+  },
+  { "Word": "Kleptomaniac", "Meaning": "steal" },
+  { "Word": "Sycophant", "Meaning": "flatterer", "Synonym": "adulatory" },
+  {
+    "Word": "Parsimony",
+    "Meaning": "extreme frugality or unwillingness to spend money"
+  },
+  {
+    "Word": "Categorical",
+    "Meaning": "absolute or unconditional",
+    "Sentence": "She gave a categorical refusal to the proposal, leaving no room for negotiation"
+  },
+  {
+    "Word": "Torpor",
+    "Meaning": "not being active and having very little energy",
+    "Sentence": "The news aroused him from his torpor"
+  },
+  { "Word": "Carnage", "Meaning": "the killing of a large number of people" },
+  {
+    "Word": "Obdurate",
+    "Meaning": "stubborn",
+    "rate": 2,
+    "Sentence": "Despite numerous pleas for mercy, the judge remained obdurate and refused to reduce the sentence"
+  },
+  {
+    "Word": "innocuous",
+    "Meaning": "harmless or not dangerous",
+    "Synonym": "benign",
+    "rate": 3,
+    "Sentence": "Her comment was innocuous, but he took it the wrong way and got upset;While technological advancements have transformed modern society, their impact on employment has not always been benign, as automation has displaced many traditional jobs"
+  },
+  {
+    "Word": "accomplishment",
+    "Meaning": "successfully completed or achieved",
+    "Sentence": "Winning the science fair was a major accomplishment for jane"
+  },
+  {
+    "Word": "Purport",
+    "Meaning": "refer the main idea",
+    "Sentence": "The purport of the speech might be to inspire the audience"
+  },
+  {
+    "Word": "Compelling",
+    "Meaning": "powerfully convincing",
+    "Sentence": "A compelling story; A compelling argument"
+  },
+  {
+    "Word": "Truculent",
+    "Meaning": "aggressive",
+    "Synonym": "belligerent",
+    "rate": 2
+  },
+  {
+    "Word": "Acquiescence",
+    "Meaning": "acceptance without protest",
+    "Sentence": "Her acquiescence to the new policy showed she didn’t want to cause conflict , even though she disagreed"
+  },
+  {
+    "Word": "Gregarious",
+    "Meaning": "sociable",
+    "Sentence": "He was a popular and gregarious man"
+  },
+  {
+    "Word": "Weary",
+    "Meaning": "tired",
+    "Synonym": "jaded",
+    "Sentence": "After years of working in the industry, she felt jaded and uninspired by the repetitive task"
+  },
+  { "Word": "Specimen", "Meaning": "use to refer a person or animal" },
+  {
+    "Word": "Disdain",
+    "Meaning": "ঘৃনা করা",
+    "Synonym": "contempt",
+    "rate": 3,
+    "Sentence": "She looked at the poorly prepared dish with disdain, refusing to even take a bite"
+  },
+  {
+    "Word": "Summon",
+    "Meaning": "authoritatively call someone",
+    "rate": 3,
+    "Sentence": "The manager decided to summon the team for an emergency meeting to address the sudden issue"
+  },
+  {
+    "Word": "Plethora",
+    "similarWord": 710,
+    "Meaning": "excessive or overwhelming amount",
+    "Synonym": "abundance;surplus;surfeit",
+    "rate": 2,
+    "Sentence": "The story had a plethora of options to choose from, making it hard to decide"
+  },
+  {
+    "Word": "Surpass",
+    "similarWord": 119,
+    "Meaning": "exceed in amount, quality or degree;doing better than previous standard",
+    "Synonym": "eclipse",
+    "rate": 2,
+    "Sentence": "The new technology has surpassed all previous models"
+  },
+  {
+    "Word": "Calumny",
+    "Meaning": "false or malicious statement intended to damage someone’s reputation",
+    "Sentence": "The politician sued[=take legal action] the newspaper for spreading calumny about his personal life"
+  },
+  { "Word": "Misanthrope", "Meaning": "hate of mankind", "Synonym": "cynic" },
+  {
+    "Word": "nonentity",
+    "Meaning": "little or no importance",
+    "Sentence": "Despite his efforts, he felt like a nonentity in the large, competitive company"
+  },
+  {
+    "Word": "Disseminate(v)",
+    "Meaning": "spread widely",
+    "Sentence": "The finding of the research were disseminate through scientific journals and conference"
+  },
+  {
+    "Word": "Prevalent(adj)",
+    "Meaning": "describe something that is common or widespread",
+    "Sentence": "The flu is prevalent during the winter months"
+  },
+  { "Word": "Breadth", "Meaning": "wide range" },
+  {
+    "Word": "Economy",
+    "Meaning": "efficiency to avoid waste",
+    "Sentence": "She managed her household with great economy, saving money wherever possible  "
+  },
+  {
+    "Word": "Composure",
+    "Meaning": "Self-control",
+    "Synonym": "forbearance",
+    "Sentence": "He lost his composure when confronted with  unexpected criticism;she showed grat forbearance when dealing with noisy neighbors"
+  },
+  { "Word": "Fatuous", "Meaning": "foolish; stupid" },
+  {
+    "Word": "Salubrious",
+    "Meaning": "healthful",
+    "rate": 3,
+    "Sentence": "The salubrious mountain air was invigorating and refreshing"
+  },
+  {
+    "Word": "inane",
+    "Meaning": "pointless or lacking in substance",
+    "Synonym": "stupid",
+    "Sentence": "He made an inane comment that added nothing to the discussion"
+  },
+  {
+    "Word": "Prophetic",
+    "Meaning": "future event",
+    "Sentence": "Her warning about the economic crisis turned out to be prophetic"
+  },
+  { "Word": "Olfactory", "Meaning": "sense of smell" },
+  { "Word": "Cuisine", "Meaning": "the style or method of cooking" },
+  { "Word": "Clandestine", "Meaning": "hidden" },
+  {
+    "Word": "Exhort",
+    "Meaning": "advice someone",
+    "Sentence": "The coach exhorted the team to give their best effect in the final minutes of the game"
+  },
+  { "Word": "Intrinsic", "Meaning": "inborn; natural" },
+  {
+    "Word": "Gratitude",
+    "Meaning": "gratefulness; thankful",
+    "Sentence": "She felt deep gratitude toward her friend for supporting her during a difficult time in her life"
+  },
+  {
+    "Word": "Gratuitous",
+    "Meaning": "unnecessary or unjustified; give freely"
+  },
+  {
+    "Word": "Affluent",
+    "Meaning": "wealthy",
+    "Synonym": "opulent",
+    "Sentence": "The affluent neighborhood was known for its luxurious homes, high end shops and well maintained parks; The opulence of the royal palace was evident in its gold plated decorations, intricate artwork  "
+  },
+  { "Word": "Retaliate", "Meaning": "fight back", "rate": 3 },
+  { "Word": "Disintegrated", "Meaning": "pieces" },
+  { "Word": "Masterful", "Meaning": "skilled" },
+  {
+    "Word": "Pedestrian",
+    "Meaning": "(n)walker;(adj)dull or ordinary or boring or tedious",
+    "rate": 3,
+    "Sentence": "The government’s pedestrian approach to solving environmental issues has failed to address the urgency of climate change"
+  },
+  {
+    "Word": "Acerbic",
+    "Meaning": "tone that is harsh or bitter",
+    "Synonym": "raucous; vitriolic",
+    "Sentence": "Her acerbic remarks during the debate left the audience stunned"
+  },
+  {
+    "Word": "Resilient",
+    "Meaning": "strong or hardy; adopt the challenging situations; able to recover quickly",
+    "rate": 3,
+    "Sentence": "Despite facing numerous setbacks, she remained resilient and eventually achieved her goals"
+  },
+  { "Word": "Volatile", "Meaning": "changed" },
+  { "Word": "Consume", "Meaning": "used up" },
+  { "Word": "Replenish", "Meaning": "fill up; refill; restore", "rate": 2 },
+  {
+    "Word": "Exotic",
+    "Meaning": "unusual;foreign",
+    "rate": 3,
+    "Sentence": "The zoo has a collection of exotic animals from around the world"
+  },
+  {
+    "Word": "Irreconcilable",
+    "Meaning": "can not be resolved or settled",
+    "Sentence": "The two parties had irreconcilable differences which lead to the end of their partnership"
+  },
+  {
+    "Word": "Imponderable",
+    "Meaning": "a fact that is difficult to estimate",
+    "Sentence": "The future of the economy is influenced by imponderable factors, such as global event and human behavior"
+  },
+  { "Word": "Swindler", "Meaning": "fraud" },
+  {
+    "Word": "Prescient",
+    "Meaning": "someone or something that has foresight or knowledge of events before they happen(ability to predict)",
+    "Sentence": "The author’s prescient novel, written decades ago early foreshadowed modern technology"
+  },
+  {
+    "Word": "Laudatory",
+    "Meaning": "express praise, admiration",
+    "Sentence": "The critics review of the film was highly laudatory, calling it a masterpiece"
+  },
+  {
+    "Word": "Aggravate",
+    "Meaning": "make a problem worse",
+    "Synonym": "enrage(to make anger)",
+    "Sentence": "His constant complaining only aggravated the tension in the room"
+  },
+  {
+    "Word": "Weather",
+    "Meaning": "(v)to endure safely through a difficult situation",
+    "Sentence": "The company managed to weather the economic crisis"
+  },
+  {
+    "Word": "Comprehend",
+    "Meaning": "understand",
+    "Sentence": "She could not comprehend the complexity of the problem"
+  },
+  {
+    "Word": "Ulterior",
+    "Meaning": "hidden or self-serving reasons",
+    "Sentence": "She was friendly, but I suspected she had an ulterior motive for helping me"
+  },
+  {
+    "Word": "Hedonist",
+    "Meaning": "who believe that pleasure and enjoyment are the most important goals in life"
+  },
+  { "Word": "Adversary", "Meaning": "opponent", "rate": 2 },
+  { "Word": "Gala", "Meaning": "festival" },
+  { "Word": "Deluge", "Meaning": "flood" },
+  {
+    "Word": "Debacle",
+    "Meaning": "refer to the sudden and complete failure or collapse",
+    "rate": 2,
+    "Sentence": "The company’s product launch was a debacle; the software crashed repeatedly"
+  },
+  { "Word": "Overawe", "Meaning": "impress someone" },
+  {
+    "Word": "Peevish",
+    "Meaning": "A person who is easily irritate",
+    "Sentence": "Her peevish nature made it difficult for her to maintain friendships"
+  },
+  {
+    "Word": "Splurge",
+    "Meaning": "spend money freely or extravagantly",
+    "Synonym": "lavish;extravagant",
+    "rate": 2,
+    "Sentence": "We splurged on a fancy dinner for our anniversary"
+  },
+  {
+    "Word": "Austere",
+    "Meaning": "vary plain and simple",
+    "Sentence": "He lived an austere life, avoiding any unnecessary comforts or luxuries"
+  },
+  {
+    "Word": "Temporize",
+    "Meaning": "avoid making decision",
+    "Sentence": "The manager temporized when asked about the budget cuts, avoiding a direct answer"
+  },
+  { "Word": "Abhor", "Meaning": "hate", "Synonym": "despise" },
+  {
+    "Word": "Enviable",
+    "Meaning": "attractive",
+    "rate": 2,
+    "Sentence": "His enviable collection of vintage[=high quality from the past] cars is the talk of the town"
+  },
+  {
+    "Word": "Imperious",
+    "Meaning": "describe someone who is domineering or authoritative",
+    "Sentence": "The manager’s imperious attitude alienated many of his employees"
+  },
+  {
+    "Word": "Inordinate",
+    "Meaning": "excessive(beyond what is considered normal)",
+    "Sentence": "They showed an inordinate level of excitement over such a small achievement; She spent an inordinate amount of time perfecting the details of her projects"
+  },
+  {
+    "Word": "vigilant",
+    "Meaning": "watchful",
+    "Sentence": "Parent need to be vigilant about their children’s online activities"
+  },
+  {
+    "Word": "Cursory",
+    "Meaning": "something done quickly or without attention to detail",
+    "rate": 2,
+    "Sentence": "The teacher took only a cursory look at the homework before moving on to the next topic"
+  },
+  {
+    "Word": "untenable",
+    "Meaning": "con not be maintain, defend or justified",
+    "rate": 2,
+    "Sentence": "After losing key allies, the politician’s position in the party became untenable and he was forced to resign"
+  },
+  {
+    "Word": "Retreat",
+    "Meaning": "move back(specially dangerous situation)",
+    "Synonym": "pull out; pull back",
+    "Sentence": "Soldiers were ordered to retreat when the enemy forces overwhelmed them"
+  },
+  { "Word": "Deluge", "Meaning": "flood" },
+  {
+    "Word": "Wilt",
+    "Meaning": "to lose strength, energy or confidence",
+    "Sentence": "After hours of intense questioning, the suspect began to wilt"
+  },
+  {
+    "Word": "Didactic",
+    "Meaning": "intended to teach(instructional or educational)",
+    "rate": 3,
+    "Sentence": "The fable had a didactic purpose, teaching children the importance of honesty"
+  },
+  { "Word": "Monetary", "Meaning": "money" },
+  { "Word": "Arboretum", "Meaning": "botanical garden" },
+  { "Word": "Granary", "Meaning": "store house" },
+  {
+    "Word": "Succinct",
+    "Meaning": "clearly and concisely in a few word",
+    "rate": 2,
+    "Sentence": "The report provide a succinct overview of the trends in energy consumption over the past decade"
+  },
+  {
+    "Word": "Nomadic",
+    "Meaning": "moving form palace to place rather than setting permanently"
+  },
+  {
+    "Word": "Submissive",
+    "Meaning": "obedient",
+    "Synonym": "compliant;docile; yield",
+    "rate": 2,
+    "Sentence": "In their relationship, he was submissive, always letting her make the decision"
+  },
+  {
+    "Word": "Upheaval",
+    "Meaning": "disturbance; disruptive change",
+    "rate": 3,
+    "Sentence": "The company went through a major upheaval after the merger, with many employees losing their jobs"
+  },
+  {
+    "Word": "Redoubtable",
+    "Meaning": "describe someone or something that is intimidating or formidable",
+    "Synonym": "formidable; intimidating",
+    "Sentence": "The team faced a redoubtable opponent in the finals"
+  },
+  {
+    "Word": "Defy",
+    "Meaning": "refuse to obey",
+    "Sentence": "The protesters chose to defy the government’s orders and continued their march"
+  },
+  {
+    "Word": "zenith",
+    "Meaning": "the highest point or peak;period of someone’s and something’s greatest point",
+    "Synonym": "pinnacle; heyday; apex",
+    "Sentence": "The artist reached the zenith of her career with her latest award-winning album"
+  },
+  {
+    "Word": "Tarnish",
+    "Meaning": "to damage or spoil the quality or reputation of something",
+    "Synonym": "dent",
+    "Sentence": "The scandal tarnished the politician’s reputation; the controversy left a tarnish on the company’s image; The bad news dented her enthusiasm"
+  },
+  {
+    "Word": "Turn down",
+    "Meaning": "refuse or reject",
+    "Sentence": "The proposal was turned down by the committee due to budget constraints"
+  },
+  {
+    "Word": "Frivolous",
+    "Meaning": "lack of importance or seriousness",
+    "rate": 3,
+    "Sentence": "the committee dismissed the proposal as frivolous and unrelated to the main issue"
+  },
+  {
+    "Word": "Procrastinate",
+    "Meaning": "delay;postpone something unnecessarily",
+    "Sentence": "He procrastinated so much that he ended up rushing through the project at the last minute"
+  },
+  {
+    "Word": "Concur with",
+    "Meaning": "agree with someone or something",
+    "Sentence": "The committee concurred with the proposal to increase funding for the project"
+  },
+  {
+    "Word": "Lenient",
+    "Meaning": "not strict in enforcing discipline; showing mercy or forgiveness",
+    "Sentence": "The teacher was lenient with the students who submitted their assignments late"
+  },
+  {
+    "Word": "Foster",
+    "Meaning": "try to develop",
+    "Synonym": "cultivate",
+    "Sentence": "While technology has simplified our lives, it is essential to cultivate healthy habits to avoid over reliance on digital device"
+  },
+  {
+    "Word": "Cosmopolitan",
+    "Meaning": "experience and comfortable with different culture"
+  },
+  { "Word": "Numinous", "Meaning": "spiritual or supernatural phenomena" },
+  {
+    "Word": "Protagonist",
+    "Meaning": "main character or central figure in a story"
+  },
+  {
+    "Word": "Exempt",
+    "Meaning": "free from obligation or duty or requirement",
+    "Sentence": "On the other hand, exempting vulnerable groups from taxes can help alleviate poverty promote social equality"
+  },
+  {
+    "Word": "Ingenuity",
+    "Meaning": "cleverness",
+    "Sentence": "The scientist’s ingenuity led to the development of a low cost water purification system"
+  },
+  {
+    "Word": "Succumb",
+    "Meaning": "failure to resist something overpowering",
+    "Sentence": "Despite advancements in healthcare, some patients still succumb to chronic illnesses due to late diagnosis"
+  },
+  { "Word": "Defy", "Meaning": "resist" },
+  {
+    "Word": "Proprietary",
+    "Meaning": "exclusive right or control",
+    "Sentence": "Some educational institutions use proprietary teaching materials, which can be costly but are often tailored to specific learning outcomes"
+  },
+  { "Word": "Plasticity", "Meaning": "quality of being easily shaped" },
+  {
+    "Word": "Lopsided",
+    "Meaning": "unbalanced",
+    "Sentence": "The lopsided distribution of wealth in many countries has led to growing social inequality and unrest"
+  },
+  {
+    "Word": "Latter",
+    "Meaning": "refer to the second item",
+    "Sentence": "Some student prefer online learning while other favor traditional classroom. The latter group often values face-to-face interaction with teachers"
+  },
+  {
+    "Word": "Irascibe",
+    "Meaning": "become irritable or annoyed over minor issues",
+    "Sentence": "High levels of stress can lead to irascibility, affecting both personal relationships and professional performance"
+  },
+  { "Word": "Prosperity", "Meaning": "success", "Synonym": "opulence" },
+  { "Word": "Culinary", "Meaning": "cooking" },
+  { "Word": "Monolithic", "Meaning": "uniform or unchanging" },
+  { "Word": "Assort", "Meaning": "classify" },
+  {
+    "Word": "Motley",
+    "Meaning": "diversity",
+    "Sentence": "The crowd was a motley group of people from all walks of life  "
+  },
+  {
+    "Word": "Impeccable",
+    "Meaning": "faultless; perfect in every way",
+    "Sentence": "Employers increasingly value not just technical skills but also impeccable soft skills like communication and teamwork"
+  },
+  {
+    "Word": "Precipitate",
+    "Meaning": "to cause to happen suddenly",
+    "rate": 2,
+    "Sentence": "The economic crisis precipitated widespread unemployment;While some government may precipitate policy changes in respect to crisis other take a more deliberate approach"
+  },
+  {
+    "Word": "Vacillate",
+    "Meaning": "to waver between different opinions",
+    "Sentence": "Many governments vacillate when it comes to implementing environmental policies, as they struggle to balance economical growth with the urgent need to address climate change"
+  },
+  { "Word": "Fractious", "Meaning": "quarrelsome" },
+  {
+    "Word": "A fair number of",
+    "Meaning": "large number of",
+    "Sentence": "A fair number of people are now adopting plant-based diets, as they become more aware of the health and environmental benefits"
+  },
+  {
+    "Word": "Dichotomy",
+    "Meaning": "divided into two completely opposite parts"
+  },
+  {
+    "Word": "Mercenary",
+    "Meaning": "action or behavior driven by greed or desire for financial gain",
+    "Synonym": "avarice",
+    "Sentence": "Her mercenary attitude made her unpopular among her colleagues"
+  },
+  {
+    "Word": "Myriad",
+    "Meaning": "extremely large number of something",
+    "Sentence": "The myriad advancements in technology have revolutionized the way we communicate , work and access information, making life more convenient but also raising concerns about privacy; A healthy lifestyle involves addressing a myriad of factors, including diet, exercise, mental well being and regular medical check-ups, to maintain overall well-being"
+  },
+  { "Word": "Comity", "Meaning": "mutual respect or harmony" },
+  { "Word": "accentuate", "Meaning": "make more noticeable" },
+  {
+    "Word": "Flamboyant",
+    "Meaning": "Attracting attention(showy or extravagant)"
+  },
+  {
+    "Word": "Prolific",
+    "Meaning": "Describe a person or thing that highly productive",
+    "VideoID": "k8d-GQlIioo",
+    "Sentence": "Rain forests are known for their prolific biodiversity, housing millions of species of plants and animals"
+  },
+  {
+    "Word": "Abbreviated",
+    "Meaning": "shortened or made briefer",
+    "Sentence": "With the rise of social media, attention spans have decreased, leading to a demand for abbreviated forms of content, such as short video or summaries"
+  },
+  {
+    "Word": "Outstrip",
+    "Meaning": "exceed or surpass or go beyond something",
+    "Sentence": "In many developing countries, population growth has outstripped economic growth, leading to widespread poverty and unemployment"
+  },
+  { "Word": "Diffuse", "Meaning": "spread or scatter" },
+  { "Word": "Opaque", "Meaning": "not transparent or hard to understand" },
+  { "Word": "Frontier", "Meaning": "border" },
+  {
+    "Word": "Archaic",
+    "Meaning": "outdated",
+    "rate": 3,
+    "Sentence": "Many archaic customs, such as arrange marriages, are still practiced in some parts of the world  "
+  },
+  {
+    "Word": "Chauvinistic",
+    "Meaning": "excessive and aggressive loyalty to a particular group"
+  },
+  {
+    "Word": "Voracious",
+    "Meaning": "extremely hungry; enthusiastic",
+    "Sentence": "The voracious pace[=speed/rate] of technological advancement has transformed the way we live, work and communicate"
+  },
+  {
+    "Word": "Stave off",
+    "Meaning": "delay or prevent something bad from happening",
+    "Sentence": "Planting more trees can stave off the worse effect of climate change by absorbing carbon dioxide"
+  },
+  {
+    "Word": "Belie",
+    "Meaning": "to give false impression",
+    "Sentence": "The countries high GDP growth rate belies[appearance+belie+reality] the widespread poverty among its population"
+  },
+  {
+    "Word": "Sagacious",
+    "Meaning": "wise and insightful",
+    "Synonym": "judicious; sensible",
+    "Sentence": "Teachers play a sagacious role in guiding students not only academically but also in developing critical life skills"
+  },
+  { "Word": "Abridge", "Meaning": "shorten or condense" },
+  {
+    "Word": "Withdrawn",
+    "Meaning": "(adj)reserved or introvert",
+    "Synonym": "reticent[=quiet]"
+  },
+  {
+    "Word": "Sobriety",
+    "Meaning": "quality of being serious, clam, and thoughtful",
+    "Sentence": "Financial sobriety is essential for individuals and governments alike to avoid debt and ensure long term stability"
+  },
+  {
+    "Word": "Giddy",
+    "Meaning": "not serious",
+    "Synonym": "frivolous",
+    "Sentence": "The giddy atmosphere of the carnival was contagious, with everyone laughing and enjoying themselves"
+  },
+  { "Word": "Flaunt", "Meaning": "show off; show ostentatious" },
+  {
+    "Word": "Deprecatory",
+    "Meaning": "unwilling to display her accomplishment"
+  },
+  {
+    "Word": "Fortuitous",
+    "Meaning": "describe something that happen by chance or accident",
+    "Sentence": "The fortuitous arrival of migratory birds helped control the insect population in the area"
+  },
+  {
+    "Word": "Implement",
+    "Meaning": "to put a plan(v);tools or instrument(n)",
+    "Sentence": "Modern farming implements, such as tractors and harvesters, have significantly increased agricultural productivity"
+  },
+  {
+    "Word": "Habitat",
+    "Meaning": "natural environment of the animal or plant"
+  },
+  {
+    "Word": "Appraise",
+    "Meaning": "evaluate quality;to examine or analyze",
+    "Sentence": "Company often appraise student their employees performance to determine promotion and bonuses"
+  },
+  {
+    "Word": "Beacon",
+    "Meaning": "source of inspiration",
+    "Sentence": "Education is often seen a beacon of opportunity, providing people with the tools to improve their lives"
+  },
+  {
+    "Word": "Evasive",
+    "Meaning": "deliberately not giving clear or straightforward responses",
+    "Synonym": "elusive",
+    "Sentence": "The public grew frustrated with the leaders evasive responses to questions about corruption within the government"
+  },
+  {
+    "Word": "Enlarge",
+    "Meaning": "process of making something bigger",
+    "Sentence": "The company decided to enlarge its product line to attract more customer"
+  },
+  { "Word": "Gauche", "Meaning": "tactless" },
+  { "Word": "Stentorian", "Meaning": "loud" },
+  { "Word": "Sententious", "Meaning": "concise but full of meaning" },
+  {
+    "Word": "Acumen",
+    "Meaning": "ability to good judgment and quick decision",
+    "Sentence": "Successful entrepreneurs often possess a remarkable level of business acumen"
+  },
+  {
+    "Word": "Symbiotic",
+    "Meaning": "relationship between two or more than two parties",
+    "Sentence": "The symbiotic relationship between teachers and students is essential for effective learning"
+  },
+  { "Word": "Imbibe", "Meaning": "to drink(specially alcohol)" },
+  { "Word": "Machiavellian", "Meaning": "cunning and deceptive" },
+  { "Word": "Fallacy", "Meaning": "mistaken belief;error in logic" },
+  { "Word": "Extort", "Meaning": "force someone to give something" },
+  {
+    "Word": "Adulteration",
+    "Meaning": "make something impure",
+    "Sentence": "The adulteration of food products with harmful chemicals is a growing concern in many developing countries"
+  },
+  { "Word": "Repine", "Meaning": "to feel or express discontent" },
+  { "Word": "undercutting", "Meaning": "Weaken (authority or efforts)" },
+  {
+    "Word": "Laconic",
+    "Meaning": "manner of expression that is brief",
+    "Synonym": "succinct;pithy",
+    "rate": 3
+  },
+  { "Word": "Grave", "Meaning": "serious", "Synonym": "solemn" },
+  {
+    "Word": "Specious",
+    "Meaning": "appears to be truth but is actually misleading",
+    "rate": 2
+  },
+  {
+    "Word": "Dilate",
+    "Meaning": "to become or make larger, wider",
+    "Sentence": "The government’s new policies aim to dilate opportunities for small business, allowing them to thrive in a competitive market"
+  },
+  { "Word": "Cadge", "Meaning": "beg" },
+  {
+    "Word": "Arbitrate",
+    "Meaning": "mediator to resolve a dispute",
+    "Sentence": "To achieve world peace, neutral countries should arbitrate in conflict between nation, ensuring fair and unbiased resolutions"
+  },
+  { "Word": "Pith", "Meaning": "essential or central part of something" },
+  {
+    "Word": "Grate",
+    "Meaning": "irritate or annoy",
+    "Synonym": "riles",
+    "Sentence": "While constant criticism can grate on an individual’s confidence, positive feedback and encouragement can soothe their anxieties and foster personal growth and motivation"
+  },
+  { "Word": "Recumbent", "Meaning": "resting or relaxed position" },
+  { "Word": "Natty", "Meaning": "smart and stylish dresses" },
+  { "Word": "Sloppy", "Meaning": "careless in appearance" },
+  { "Word": "Underrate", "Meaning": "undervalue or underestimate" },
+  { "Word": "Peruse", "Meaning": "read or examine something carefully" },
+  {
+    "Word": "Seemly",
+    "Meaning": "behavior or action that are appropriate, proper"
+  },
+  { "Word": "Gainsay", "Meaning": "deny or contradict" },
+  { "Word": "Drown out", "Meaning": "so loud that other sounds can not heard" },
+  { "Word": "Discursive", "Meaning": "unfocused" },
+  { "Word": "Impoverish", "Meaning": "state of being poor" },
+  { "Word": "Ambidextrous", "Meaning": "able to use both hand equally well" },
+  { "Word": "Overturn", "Meaning": "completely change" },
+  {
+    "Word": "Simulate",
+    "Meaning": "to act as if you feel or think, often to deceive"
+  },
+  {
+    "Word": "Peripatetic",
+    "Meaning": "travels from place to place",
+    "Synonym": "nomadic;itinerant",
+    "Sentence": "she leads a peripatetic lifestyle as a traveling consultant"
+  },
+  {
+    "Word": "Resort to",
+    "Meaning": "to use something as a list option",
+    "Sentence": "He resorted to working overtime to meet the deadline;When negotiations failed, they resorted to legal action"
+  },
+  {
+    "Word": "Saw through",
+    "Meaning": "recognize the true persisting until completion"
+  },
+  {
+    "Word": "Bucolic",
+    "Meaning": "pleasant, peaceful aspect of the countryside"
+  },
+  { "Word": "Mendicant", "Meaning": "beggar" },
+  {
+    "Word": "Gratify",
+    "Meaning": "to pleased or fullfill someone desires",
+    "Sentence": "Winning the award gratified her years of hard work"
+  },
+  {
+    "Word": "Impetus",
+    "Meaning": "motivation",
+    "Sentence": "The award was an impetus to work harder"
+  },
+  {
+    "Word": "Gratis",
+    "similarWord": 585,
+    "Meaning": "free",
+    "Sentence": "While some educational resources are gratis online, others require subscriptions"
+  },
+  {
+    "Word": "Exemplary",
+    "Meaning": "serving as a desirable model",
+    "Sentence": "Government should invest in exemplary public transportation systems"
+  },
+  {
+    "Word": "Conceded",
+    "Meaning": "reluctantly admit that something is true",
+    "Sentence": "While some argue that economic growth should be prioritized, even critics of environmental regulations have conceded that unchecked industrialization harms public health"
+  },
+  {
+    "Word": "Derelict",
+    "Meaning": "abandoned(e.g:building, place); irresponsible(e.g: person behavior)",
+    "Synonym": "dilapidated",
+    "Sentence": "Critics argue that government has been derelict in its duty to address rising homelessness, leaving thousands without proper support"
+  },
+  {
+    "Word": "Amicable",
+    "Meaning": "polite, friendly",
+    "Sentence": "Diplomacy often relies on amicable negotiations to prevent conflicts and foster global cooperation"
+  },
+  {
+    "Word": "Excavating",
+    "Meaning": "carefully uncovering archaeological sites"
+  },
+  { "Word": "lewd", "Meaning": "crude" },
+  {
+    "Word": "Interminable",
+    "Meaning": "seem endless often in a negative or tedious way",
+    "Sentence": "Traffic congestion in megacities leads to interminable delays, reducing productivity and increasing pollution"
+  },
+  {
+    "Word": "Malinger",
+    "Meaning": "pretend or exaggerate illness/injure to avoid work or duty",
+    "Sentence": "Workplace malingerers often create resentment among diligent colleagues"
+  },
+  {
+    "Word": "Bibliomania",
+    "Meaning": "extreme or obsessive enthusiasm for collecting and possessing books"
+  },
+  {
+    "Word": "Burgeon",
+    "Meaning": "to grow or develop rapidly",
+    "Sentence": "Renewable energy industries are burgeoning in developing nations, outpacing[=to surpass or exceed in speed] fossil fuel investments"
+  },
+  { "Word": "Apprehend", "similarWord": 113, "Meaning": "to arrest" },
+  {
+    "Word": "Stride",
+    "Meaning": "significant progress",
+    "Sentence": "Gender equality legislation[=law formulation] represent a major stride toward workplace fairness"
+  },
+  {
+    "Word": "Stereotype",
+    "Meaning": "a fixed, oversimplified belief about a group"
+  },
+  { "Word": "Ramshackle", "Meaning": "ভগ্নপ্রায়" },
+  { "Word": "Anecdote", "Meaning": "short story" },
+  { "Word": "Compassionate", "Meaning": "sympathy", "rate": 2 },
+  {
+    "Word": "ruthless",
+    "Meaning": "brutal;showing no kindness",
+    "Synonym": "merciless"
+  },
+  { "Word": "impervious", "Meaning": "unable to affected" },
+  {
+    "Word": "Iconoclastic",
+    "Meaning": "rejecting traditional beliefs, customs or value"
+  },
+  { "Word": "Renegade", "Meaning": "ধর্মত্যাগী", "Synonym": "traitor; hermit" },
+  {
+    "Word": "Recluse",
+    "Meaning": "alone and avoid social contact",
+    "Sentence": "While the internet connects people globally, it has also enabled a growing number of recluse who prefer virtual interaction over real-life relationships"
+  },
+  { "Word": "Pseudonym", "Meaning": "false or fictitious name or pen name" },
+  { "Word": "Corroborate", "Meaning": "confirm" },
+  { "Word": "Decay", "Meaning": "ক্ষয়প্রাপ্ত হত্তয়া", "Synonym": "perish" },
+  { "Word": "Overgraze", "Meaning": "deplete grasslands" },
+  { "Word": "Plunge", "Meaning": "নিমগ্ন" },
+  { "Word": "Taciturn", "similarWord": 80, "Meaning": "silent" },
+  {
+    "Word": "Morbid",
+    "Meaning": "unhealthy mental focus",
+    "Sentence": "Social media can fuel morbid curiosity about tragedies"
+  }
+]
