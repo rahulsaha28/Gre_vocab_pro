@@ -1,5 +1,9 @@
 import { updateVocabStatusByID } from "@/server/server-action";
-import { VocabType } from "@/utils/TsConfig";
+import {
+  isNumberArray,
+  isSimilarWordsArray,
+  VocabType,
+} from "@/utils/TsConfig";
 import { useCallback, useEffect, useState } from "react";
 import FavorableContainer from "../miniui/FavorableContainer";
 import TextRepresent from "../textComponent/TextRepresent";
@@ -12,25 +16,6 @@ type WordStatus = "UNKNOWN" | "KNOWN" | undefined;
 interface WordOption {
   value: string;
   status: WordStatus | string;
-}
-
-function isNumberArray(data: unknown): data is number[] {
-  return Array.isArray(data) && data.every((item) => typeof item === "number");
-}
-
-// Type guard for SimilarWord array
-function isSimilarWordsArray(data: unknown): data is WordOption[] {
-  return (
-    Array.isArray(data) &&
-    data.every(
-      (item) =>
-        typeof item === "object" &&
-        item !== null &&
-        "value" in item &&
-        typeof item.value === "string" &&
-        "status" in item
-    )
-  );
 }
 
 const ItemCard: React.FC<VocabType> = ({

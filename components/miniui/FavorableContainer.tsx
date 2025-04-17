@@ -17,7 +17,7 @@ const FavorableContainer = ({
 
   useEffect(() => {
     setFavorite(favour);
-  }, [favour]);
+  }, [favour, id]);
   const handelOnChange = async () => {
     try {
       setLoading(true);
