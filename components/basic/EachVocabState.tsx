@@ -1,5 +1,5 @@
 import { updateVocabSynonymStateByIDIndex } from "@/server/server-action";
-import React, { useCallback, useState } from "react";
+import React, { useCallback, useEffect, useState } from "react";
 import TextRepresent from "../textComponent/TextRepresent";
 
 type SynonymStatus = "UNKNOWN" | "KNOWN" | undefined;
@@ -19,6 +19,10 @@ export const EachVocabState: React.FC<PropsType> = React.memo(
   ({ synonym, index, id }) => {
     const [option, setOption] = useState<Synonym>(synonym);
     const [loading, setLoading] = useState(false);
+
+    useEffect(() => {
+      setOption(synonym);
+    }, [id]);
 
     const handelchangeState = useCallback(
       async (val: boolean) => {

@@ -25,10 +25,10 @@ export interface VocabType {
   updatedAt: Date;
 }
 
-export type SynonymType = {
+export interface SynonymType {
   value: string;
-  status: "UNKNOWN" | "KNOWN" | undefined;
-};
+  status: "UNKNOWN" | "KNOWN" | undefined | string;
+}
 
 /**
  * Type guard to check if the data is an array of SynonymType objects
@@ -70,3 +70,19 @@ export const isSimilarWordsArray = (data: unknown): data is SynonymType[] =>
       typeof item.value === "string" &&
       "status" in item
   );
+
+export interface useStatusVocabReturnType {
+  status: SynonymType["status"];
+  loading: boolean;
+  error: string | null;
+  updateStatus: (val: boolean) => Promise<void>;
+}
+
+export interface PaginationType {
+  visiblePages: number[];
+  isFirstPage: boolean;
+  isLastPage: boolean;
+  goToNextPage: () => number;
+  goToPreviousPage: () => number;
+  goToPage: (page: number) => number;
+}

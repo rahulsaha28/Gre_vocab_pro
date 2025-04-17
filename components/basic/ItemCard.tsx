@@ -1,10 +1,10 @@
-import { updateVocabStatusByID } from "@/server/server-action";
+import useVocabStatus from "@/hooks/useVocabStatus";
 import {
   isNumberArray,
   isSimilarWordsArray,
+  SynonymType,
   VocabType,
 } from "@/utils/TsConfig";
-import { useCallback, useEffect, useState } from "react";
 import FavorableContainer from "../miniui/FavorableContainer";
 import TextRepresent from "../textComponent/TextRepresent";
 import { Card, CardContent, CardHeader, CardTitle } from "../ui/card";
@@ -27,31 +27,12 @@ const ItemCard: React.FC<VocabType> = ({
   status,
   favarable,
 }) => {
-  const [option, setOption] = useState<WordOption>({ value: word, status });
-  const [loading, setLoading] = useState(false);
-
-  useEffect(() => {
-    setOption({ value: word, status: status });
-  }, [word, status, favarable]);
-
-  const handelChangeStatus = useCallback(
-    async (val: boolean) => {
-      try {
-        setLoading(true);
-        const result = await updateVocabStatusByID(id, val);
-        if (result?.status === 200) {
-          setOption((pre) => ({ ...pre, status: result?.data?.status }));
-        } else {
-          throw Error("Some error happen");
-        }
-      } catch (error) {
-        throw Error("Some error happen");
-      } finally {
-        setLoading(false);
-      }
-    },
-    [id]
-  );
+  const {
+    status: vocabStatus,
+    loading,
+    error,
+    updateStatus,
+  } = useVocabStatus(id, status);
 
   const hasSimilarWords =
     Array.isArray(similarwords) && similarwords.length > 0;
@@ -64,13 +45,15 @@ const ItemCard: React.FC<VocabType> = ({
     ? synonyms
     : [];
 
+  const option: SynonymType = { value: word, status: vocabStatus };
+
   return (
     <Card>
       <CardHeader>
         <FavorableContainer favour={favarable} id={id} size={15} />
         <CardTitle className="flex justify-between items-center">
           <TextRepresent
-            handelChangeStatus={handelChangeStatus}
+            handelChangeStatus={updateStatus}
             synonym={Object(option)}
             id={id}
             loading={loading}
