@@ -1,5 +1,6 @@
 import useVocabStatus from "@/hooks/useVocabStatus";
 import {
+  hasSimilarWords,
   isNumberArray,
   isSimilarWordsArray,
   SynonymType,
@@ -34,9 +35,6 @@ const ItemCard: React.FC<VocabType> = ({
     updateStatus,
   } = useVocabStatus(id, status);
 
-  const hasSimilarWords =
-    Array.isArray(similarwords) && similarwords.length > 0;
-
   const newSimilarWords: number[] = isNumberArray(similarwords)
     ? similarwords
     : [];
@@ -58,7 +56,7 @@ const ItemCard: React.FC<VocabType> = ({
             id={id}
             loading={loading}
           />
-          {hasSimilarWords && (
+          {hasSimilarWords(newSimilarWords) && (
             <PopupDialog item={newSimilarWords} word={word} />
           )}
         </CardTitle>

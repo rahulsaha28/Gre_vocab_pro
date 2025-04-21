@@ -32,7 +32,7 @@ export default function RootLayout({
         <SearchProvider>
           <div className="flex flex-col min-h-screen">
             <NavBar />
-            {children}
+            <div>{children}</div>
           </div>
         </SearchProvider>
       </body>

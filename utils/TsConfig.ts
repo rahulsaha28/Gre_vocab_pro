@@ -78,6 +78,9 @@ export interface useStatusVocabReturnType {
   updateStatus: (val: boolean) => Promise<void>;
 }
 
+export const hasSimilarWords = (similarWords: number[]) =>
+  Array.isArray(similarWords) && similarWords.length > 0;
+
 export interface PaginationType {
   visiblePages: number[];
   isFirstPage: boolean;
@@ -85,4 +88,10 @@ export interface PaginationType {
   goToNextPage: () => number;
   goToPreviousPage: () => number;
   goToPage: (page: number) => number;
+}
+
+export interface PaginationStateType {
+  currentPage: number;
+  totalPages: number;
+  handlePageChange: (page: number) => void;
 }
