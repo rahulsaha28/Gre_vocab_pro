@@ -1,5 +1,5 @@
 "use server";
-import { status } from "@prisma/client";
+import { Question, QuestionType, status } from "@prisma/client";
 import { prisma } from "./client-config";
 
 type VocabularyType = {
@@ -299,4 +299,64 @@ export const searchVocab = async (search: string) => {
       };
     }
   } catch (error) {}
+};
+
+// question
+export const setQuestion = async (data: Question) => {
+  try {
+    const result = await prisma.question.create({
+      data,
+    });
+
+    if (result) {
+      return {
+        status: 200,
+        message: "Question created successfully",
+        data: result,
+      };
+    }
+    return {
+      status: 400,
+      message: "Question not created",
+    };
+  } catch (error) {
+    return {
+      status: 500,
+      message: "Error happen",
+      error,
+    };
+  }
+};
+
+export const getQuestion = async (
+  page: number,
+  perPage: number,
+  type: QuestionType
+) => {
+  try {
+    const [result, total] = await Promise.all([
+      await prisma.question.findMany({
+        where: {
+          type,
+        },
+        skip: (page - 1) * perPage,
+        take: perPage,
+      }),
+      prisma.question.count({ where: { type } }),
+    ]);
+
+    return {
+      status: 200,
+      data: {
+        data: result,
+        total,
+      },
+    };
+  } catch (error) {
+    return {
+      status: 500,
+      message: "Error happen",
+      error,
+    };
+  }
 };

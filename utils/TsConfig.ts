@@ -95,3 +95,12 @@ export interface PaginationStateType {
   totalPages: number;
   handlePageChange: (page: number) => void;
 }
+
+export interface QuestionType {
+  question: string;
+  answer: string;
+  solution: string | null;
+  type: QuestionTypeOf;
+}
+
+type QuestionTypeOf = "Math" | "English" | "Bangla" | "GeneralKnowledge";

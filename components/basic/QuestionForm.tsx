@@ -1,4 +1,5 @@
 "use client";
+import { setQuestion } from "@/server/server-action";
 import { questionTypes } from "@/utils/util";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { useState } from "react";
@@ -31,9 +32,18 @@ const QuestionForm = () => {
 
   const [isLoading, setIsLoading] = useState<boolean>(false);
 
-  const onSubmit = (data: any) => {
+  const onSubmit = async (data: any) => {
     setIsLoading(true);
-    console.log(data);
+    try {
+      const result = await setQuestion(data);
+      if (result.status === 200) {
+        console.log(result.data);
+      }
+    } catch (error) {
+      console.log(error);
+    } finally {
+      setIsLoading(false);
+    }
   };
   return (
     <Form {...form}>

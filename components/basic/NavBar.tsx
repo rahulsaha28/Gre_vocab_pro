@@ -29,6 +29,11 @@ const navbarData = [
     path: "/favorite",
     icon: "file-json-2",
   },
+  {
+    name: "Question",
+    path: "/question",
+    icon: "file-json-2",
+  },
 ];
 
 const NavBar = () => {
