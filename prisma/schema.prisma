@@ -21,6 +21,12 @@ model Vocabulary {
   updatedAt    DateTime @updatedAt
 }
 
+// model Status {
+//   id     Int    @id @default(autoincrement())
+//   //vocab Vocabulary
+//   status status @default(UNKNOWN)
+// }
+
 enum status {
   KNOWN
   UNKNOWN

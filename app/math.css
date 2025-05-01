@@ -53,3 +53,46 @@ sup {
   padding-left: 12px;
   margin: 1.5em 0 0.8em 0;
 }
+
+.math-sqrt {
+  position: relative;
+  display: inline-block;
+}
+
+.math-radical {
+  border-top: 1px solid black;
+  padding-left: 2px;
+  margin-left: 1px;
+}
+
+/* Binomial Coefficient Styling */
+.binom {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  vertical-align: middle;
+  margin: 0 0.1em;
+  font-family: "Times New Roman", serif;
+  font-style: italic;
+}
+
+.binom > span:first-child {
+  padding-bottom: 0.1em;
+}
+
+.binom > span:last-child {
+  padding-top: 0.1em;
+  border-top: 1px solid currentColor;
+}
+
+/* For fractions containing binomials */
+.frac .binom {
+  font-size: 0.9em; /* Slightly smaller in fractions */
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .binom {
+    font-size: 0.9em;
+  }
+}

@@ -36,6 +36,7 @@ const QuestionForm = () => {
     setIsLoading(true);
     try {
       const result = await setQuestion(data);
+
       if (result.status === 200) {
         console.log(result.data);
       }
@@ -43,6 +44,11 @@ const QuestionForm = () => {
       console.log(error);
     } finally {
       setIsLoading(false);
+      form.reset({
+        answer: "",
+        question: "",
+        solution: "",
+      });
     }
   };
   return (
@@ -67,7 +73,7 @@ const QuestionForm = () => {
             <FormItem>
               <FormLabel>Answer</FormLabel>
               <FormControl>
-                <Input {...field} />
+                <Input type="text" {...field} value={field.value || ""} />
               </FormControl>
             </FormItem>
           )}

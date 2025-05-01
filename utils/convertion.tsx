@@ -41,6 +41,15 @@ export function convertMathToHTML(input: string): string {
     /\\frac\{(.*?)\}\{(.*?)\}/g,
     '<span class="math-frac"><span class="frac-top">$1</span><span class="frac-bottom">$2</span></span>'
   );
+  output = output.replace(
+    /\\sqrt\{(.+?)\}/g,
+    '<span class="math-sqrt">√<span class="math-radical">$1</span></span>'
+  );
+
+  output = output.replace(/(\d+)\^(\d+)/g, "$1<sup>$2</sup>");
+  output = output.replace(/([a-zA-Z])_([a-zA-Z0-9]+)/g, "$1<sub>$2</sub>");
+  output = output.replace(/\\quad/g, "&emsp;");
+  output = output.replace(/(\d+)\\?^\s*\\?circ/g, "$1°");
 
   return output;
 }
@@ -126,6 +135,11 @@ function convertInlineMath(equation: string): string {
     equation = equation.replace(/\\phi|\phi/g, "φ");
     equation = equation.replace(/\\omega|\omega/g, "ω");
     equation = equation.replace(/\\%|\%/g, "%");
+    equation = equation.replace(/(\d+)\s*\\?\^\s*\\?circ\b/g, "$1°");
+    equation = equation.replace(
+      /\\binom\{([^}]+)\}\{([^}]+)\}/g,
+      '<span class="binom"><span>$1</span><span>$2</span></span>'
+    );
 
     console.log(value, equation);
   }
