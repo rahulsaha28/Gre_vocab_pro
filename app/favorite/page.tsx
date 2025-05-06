@@ -70,7 +70,7 @@ const FavoritePage = () => {
   if (status === 200) {
     return (
       <>
-        <div className="grid md:grid-cols-4 grid-cols-1 gap-6 p-5">
+        <div className="grid  grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 p-5">
           {data?.map((synonym) => (
             <FavoriteCard
               key={synonym.id}

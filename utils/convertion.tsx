@@ -1,6 +1,7 @@
 export function convertMathToHTML(input: string): string {
+  input = convertDoubleDolar(input);
+  input = convertSingleDolar(input);
   // Handle block-level \[ \] equations
-
   let output = input.replace(/\\\[([\s\S]*?)\\\]/g, (_, equation) => {
     return `<div class="math-block">${convertInlineMath(equation)}</div>`;
   });
@@ -50,6 +51,8 @@ export function convertMathToHTML(input: string): string {
   output = output.replace(/([a-zA-Z])_([a-zA-Z0-9]+)/g, "$1<sub>$2</sub>");
   output = output.replace(/\\quad/g, "&emsp;");
   output = output.replace(/(\d+)\\?^\s*\\?circ/g, "$1°");
+  output = output.replace(/\\cap/g, "∩");
+  output = output.replace(/\\cup/g, "∪");
 
   return output;
 }
@@ -58,6 +61,10 @@ function convertInlineMath(equation: string): string {
   // Handle superscripts
   equation = equation.replace(/(\w+)\^\{([^}]+)\}/g, "$1<sup>$2</sup>");
   equation = equation.replace(/(\w+)\^(\w)/g, "$1<sup>$2</sup>");
+  equation = equation.replace(
+    /([a-zA-Z])_\{([^}]+)\}/g,
+    '<span class="math-inline">$1<sub>$2</sub></span>'
+  );
 
   // Handle fractions (simple cases)
   equation = equation.replace(
@@ -140,9 +147,27 @@ function convertInlineMath(equation: string): string {
       /\\binom\{([^}]+)\}\{([^}]+)\}/g,
       '<span class="binom"><span>$1</span><span>$2</span></span>'
     );
+    equation = equation.replace(/\\cap/g, "∩");
+    equation = equation.replace(/\\cup/g, "∪");
+    equation = equation.replace(/\\angle/g, "∠");
+    equation = equation.replace(/\\sin/g, " sin");
+    equation = equation.replace(/\\cos/g, " cos");
+    equation = equation.replace(/\\tan/g, " tan");
 
     console.log(value, equation);
   }
 
   return equation;
 }
+
+const convertDoubleDolar = (input: string): string => {
+  return input.replace(/^\$\$([\s\S]*?)\$\$/gm, (_, content) => {
+    return `\\[\n${content.trim()}\n\\]`;
+  });
+};
+
+const convertSingleDolar = (input: string): string => {
+  return input.replace(/\$(.*?)\$/g, (_, content) => {
+    return `\\(${content.trim()}\\)`;
+  });
+};

@@ -13,6 +13,8 @@
 }
 .math-inline {
   font-style: italic;
+  font-size: 1.1em;
+  color: #333;
 }
 .math-boxed {
   display: inline-block;
